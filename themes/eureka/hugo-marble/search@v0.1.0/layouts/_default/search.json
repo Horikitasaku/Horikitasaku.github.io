@@ -1,0 +1,18 @@
+{{- $index := slice -}}
+{{- range site.RegularPages -}}
+  {{- if ne .Type "search" -}}
+    {{- $page := . -}}
+    {{- $dict := (dict "title" .Title "content" .Plain "permalink" .Permalink) -}}
+    {{- $taxonomies := dict -}}
+    {{- range $taxonomyName, $taxonomy := .Site.Taxonomies -}}
+      {{- $terms := slice -}}
+      {{- range $page.GetTerms $taxonomyName -}}
+          {{- $terms = $terms | append .LinkTitle -}}
+      {{- end -}}
+      {{- $dict = merge $dict (dict $taxonomyName $terms) -}}
+    {{- end -}}
+    {{- $index = $index | append $dict -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $index | jsonify -}}

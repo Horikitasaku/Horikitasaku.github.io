@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{ $fuseJS := resources.Get "js/fuse.js" | resources.ExecuteAsTemplate "js/fuse.js" . | js.Build (dict "minify" true) | fingerprint "sha384" }}
+<script defer type="text/javascript" src="{{ $fuseJS.Permalink }}"></script>
+<div id="search-wrapper" class="bg-secondary-bg rounded px-6 py-8 lg:mt-12">
+  <form action="{{ .Permalink }}" class="flex">   
+    <input type="text" id="search-input" name="q" class="bg-primary-bg text-primary-text rounded-lg w-full pl-4" placeholder="Search" required>
+    <button type="submit" class="p-2 ml-2 text-primary-text bg-primary-bg rounded-lg">
+      <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+      </svg>
+    </button>
+  </form>
+  <div id="search-results" class="prose py-4"></div>
+</div>
+{{ end }}

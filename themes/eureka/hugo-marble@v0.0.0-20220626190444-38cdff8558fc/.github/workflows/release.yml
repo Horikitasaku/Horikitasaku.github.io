@@ -1,0 +1,19 @@
+name: release
+
+on:
+  push:
+    tags:
+      - "**v*.*.*"
+      - "!**v*.*.*-**"
+
+jobs:
+  release-marble:
+    runs-on: ubuntu-latest
+    name: Release Marble
+    steps:
+      - name: Checkout Marble
+        uses: actions/checkout@v2
+      - name: Release Marble
+        uses: softprops/action-gh-release@v1
+        with:
+          generate_release_notes: true
