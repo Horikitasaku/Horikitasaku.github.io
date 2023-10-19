@@ -11,12 +11,12 @@ social:
   - icon: envelope
     iconPack: fas
     url: mailto:saku2696983188@gmail.com
-  # - icon: twitter
-  #   iconPack: fab
-  #   url: https://example.com/
   - icon: github
     iconPack: fab
     url: https://github.com/Horikitasaku
+  - icon: kaggle
+    iconPack: fab
+    url: https://www.kaggle.com/horikitasaku
 
 weight: 1
 widget:
@@ -45,7 +45,7 @@ widget:
 
 ## Self Introduction
 
-
+**火焰**的燃烧因为**书**得以燃烧，**我的生命**因为**知识**有了意义。
 
 ## Details  
 

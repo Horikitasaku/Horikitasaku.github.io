@@ -12,12 +12,12 @@ social:
   - icon: envelope
     iconPack: fas
     url: mailto:saku2696983188@gmail.com
-  # - icon: twitter
-  #   iconPack: fab
-  #   url: https://example.com/
   - icon: github
     iconPack: fab
     url: https://github.com/Horikitasaku
+  - icon: kaggle
+    iconPack: fab
+    url: https://www.kaggle.com/horikitasaku
 
 weight: 1
 widget:
@@ -46,7 +46,7 @@ widget:
 
 ## Self Introduction
 
-
+この炎を燃やしたのは本でした。私の人生を支えてくれたのは知識でした。
 
 ## Details  
 
