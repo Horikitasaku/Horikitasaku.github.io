@@ -46,7 +46,7 @@ widget:
 
 ## Self Introduction
 
-A **Flame** fueled by **Books**. A **Man** fueled by **knowledge**.
+The **Flame** fueled by **Books**. The **One** fueled by **knowledge**.
 
 
 ## Details  
