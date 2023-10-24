@@ -45,3 +45,4 @@ build:
   useResourceCacheWhen: always
 
 enableRobotsTXT: true
+noindex : false
