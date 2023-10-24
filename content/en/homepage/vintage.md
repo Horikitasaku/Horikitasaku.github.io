@@ -5,7 +5,7 @@ slogan: The Flame which fueled by Books. The One who fueled by knowledge.
 imgLeft: images/Saturn.jpg
 imgRight: images/jupiter.jpg
 
-weight: 1
+weight: 4
 widget:
   handler: vintage
 
