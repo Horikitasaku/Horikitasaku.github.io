@@ -58,7 +58,7 @@ widget:
 
 Kaggle expert.
 
-## Details  
+## My personality  
 
 私の人生の意味は知識によって与えられています。
 

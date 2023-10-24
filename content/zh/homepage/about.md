@@ -58,7 +58,7 @@ widget:
 
 Kaggle Expert。
 
-## Details  
+## My personality  
 
 我的生命的意义是由知识赋予的，就像那书籍上燃烧着的火。
 
