@@ -7,6 +7,9 @@ bio: 'The Flame which fueled by Books.
 
 
 The One who fueled by knowledge.'
+
+description: Homepage EN
+
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
