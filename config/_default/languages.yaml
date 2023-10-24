@@ -3,14 +3,14 @@ en:
   languageName: English
   # Uncomment for multilingual sites, and move the default content into corresponding sub-folder.
   contentDir: content/en
-  title: EN
+  title: Horikita Saku
 
 # Uncomment for multilingual sites, and customize the following config.
 zh:
   languageCode: zh
   languageName: 简体中文
   contentDir: content/zh
-  title: ZH
+  title: 堀北朔
 
   # title: 中文标题
 
@@ -19,6 +19,6 @@ jp:
   languageCode: jp
   languageName: 日本語
   contentDir: content/jp
-  title: JP
+  title: ほりきたさく
 
   # title: 中文标题
