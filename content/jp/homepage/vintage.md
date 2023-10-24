@@ -1,9 +1,9 @@
 ---
 title: Vintage
 draft: false
-slogan: この炎を燃やしたのは本でした。私の人生を支えてくれたのは知識でした。
-imgLeft: images/hero-left.jpg
-imgRight: images/hero-right.jpg
+slogan: 私は知識を追いかけて、敬虔さと熱愛を持って、孤独で尊敬します。
+imgLeft: 
+imgRight: 
 
 weight: 4
 widget:

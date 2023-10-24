@@ -2,29 +2,27 @@
 title: Experience
 draft: false
 experiences:
-  - title: Example Role 1
+  - title: Kaggle Expert
     organization:
-      name: Example Organization 1
-      url: https://example.org
-    dates: "2019 - Present"
-    location: Country
+      name: Kaggle
+      url: https://www.kaggle.com/horikitasaku
+    dates: "2023 - Present"
+    location: 
     writeup: >
-      Donec scelerisque egestas augue at tempor. Fusce faucibus magna in.
+          About a year after joining the kaggle community, became Kaggle Expert.
 
-      - Suspendisse lacinia mauris a laoreet vehicula.
-
-      - Aenean tincidunt enim vitae ante blandit tempor.
-
-      - Nam tincidunt diam quis lorem rutrum ullamcorper.
-
-  - title: Example Role 2
+  - title: IceCube - Neutrinos in Deep Ice - Silver Medal
     organization:
-      name: Example Organization 2
-      url: https://example.org
-    dates: "2017 - 2019"
-    location: Country
+      name: IceCube Neutrino Observatory
+      url: https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice
+    dates: "2023"
+    location: 
     writeup: >
-      **Aliquam** at **rutrum** ante. In sed quam faucibus.
+      Reconstruct the direction of neutrinos from the Universe to the South Pole
+
+      - In the competition on neutrinos and astrophysics, it won 21 places, the top 3% of all participating teams.
+  
+      - It's also my first medal.
 
 weight: 3
 widget:

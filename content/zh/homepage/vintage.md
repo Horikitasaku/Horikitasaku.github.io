@@ -1,9 +1,9 @@
 ---
 title: Vintage
 draft: false
-slogan: 
-imgLeft: images/hero-left.jpg
-imgRight: images/hero-right.jpg
+slogan: 我追逐着知识，带着虔诚与热爱，孤独而崇敬。
+imgLeft: 
+imgRight: 
 
 weight: 4
 widget:

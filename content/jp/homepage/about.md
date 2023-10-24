@@ -3,7 +3,10 @@ title: About Me
 draft: false
 role: Horikita Saku
 avatar: images/icon.png
-bio: 
+bio: 'この炎を燃やしたのは本でした。
+
+
+私の人生を支えてくれたのは知識でした。'
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
@@ -45,7 +48,24 @@ widget:
 
 ## Self Introduction
 
+本名 吴宇轩; 堀北朔と呼んでもいい。
+
+大学では人工知能を専攻。
+
+専門はデータサイエンス、自然科学との融合。
+
+現在は物理学や生物情報の分野で研究を続けています
+
+Kaggle expert.
 
 ## Details  
+
+私の人生の意味は知識によって与えられています。
+
+平和、書、雨とコーヒーか好き。偽善、政治、無意味を憎む。
+
+お気に入りの本は、『冬の夜ひとりの旅人が』。
+
+ちょっとワーカホリックかも。
 
 

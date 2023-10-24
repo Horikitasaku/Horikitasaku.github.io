@@ -2,29 +2,28 @@
 title: Experience
 draft: false
 experiences:
-  - title: Example Role 1
+  - title: Kaggle Expert
     organization:
-      name: Example Organization 1
-      url: https://example.org
-    dates: "2019 - Present"
-    location: Country
+      name: Kaggle
+      url: https://www.kaggle.com/horikitasaku
+    dates: "2023 - Present"
+    location: 
     writeup: >
-      Donec scelerisque egestas augue at tempor. Fusce faucibus magna in.
+          
+          - 在加入kaggle社区大约一年后，成为了Kaggle Expert。
 
-      - Suspendisse lacinia mauris a laoreet vehicula.
-
-      - Aenean tincidunt enim vitae ante blandit tempor.
-
-      - Nam tincidunt diam quis lorem rutrum ullamcorper.
-
-  - title: Example Role 2
+  - title: IceCube - Neutrinos in Deep Ice - Silver Medal
     organization:
-      name: Example Organization 2
-      url: https://example.org
-    dates: "2017 - 2019"
-    location: Country
+      name: IceCube Neutrino Observatory
+      url: https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice
+    dates: "2023"
+    location: 
     writeup: >
-      **Aliquam** at **rutrum** ante. In sed quam faucibus.
+      重建中微子从宇宙到达南极的方向
+
+      - 在中微子与天体物理学竞赛中，获得21th，在所有参赛队伍中排名前3%。
+
+      - 这也是我的第一枚奖牌。
 
 weight: 3
 widget:
