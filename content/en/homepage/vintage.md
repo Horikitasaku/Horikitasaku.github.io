@@ -1,11 +1,11 @@
 ---
 title: Vintage
 draft: false
-slogan: I study out of piety and love. Not Fame and Wealth.
-imgLeft: images/hero-left.jpg
-imgRight: images/hero-right.jpg
+slogan: The Flame which fueled by Books. The One who fueled by knowledge.
+imgLeft: images/Saturn.jpg
+imgRight: images/jupiter.jpg
 
-weight: 4
+weight: 1
 widget:
   handler: vintage
 
@@ -21,9 +21,9 @@ widget:
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
     color: secondary
-    image:
+    image: images/background.jpg
     # Options: auto, cover and contain. Default is auto.
-    size:
+    size: 
     # Options: center, top, right, bottom, left.
     position:
     # Options: fixed, local, scroll.

@@ -1,11 +1,11 @@
 ---
 title: Vintage
 draft: false
-slogan: We are all in the gutter, but some of us are looking at the stars.
+slogan: この炎を燃やしたのは本でした。私の人生を支えてくれたのは知識でした。
 imgLeft: images/hero-left.jpg
 imgRight: images/hero-right.jpg
 
-weight: 4
+weight: 1
 widget:
   handler: vintage
 
@@ -21,7 +21,7 @@ widget:
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
     color: secondary
-    image:
+    image: 
     # Options: auto, cover and contain. Default is auto.
     size:
     # Options: center, top, right, bottom, left.

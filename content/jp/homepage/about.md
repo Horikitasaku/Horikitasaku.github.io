@@ -19,7 +19,7 @@ social:
     iconPack: fab
     url: https://www.kaggle.com/horikitasaku
 
-weight: 1
+weight: 2
 widget:
   handler: about
 
@@ -46,7 +46,6 @@ widget:
 
 ## Self Introduction
 
-この炎を燃やしたのは本でした。私の人生を支えてくれたのは知識でした。
 
 ## Details  
 

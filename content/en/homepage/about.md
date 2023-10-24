@@ -19,7 +19,7 @@ social:
     url: https://www.kaggle.com/horikitasaku
 
 
-weight: 1
+weight: 2
 widget:
   handler: about
 
@@ -45,8 +45,6 @@ widget:
 ---
 
 ## Self Introduction
-
-The **Flame** fueled by **Books**. The **One** fueled by **knowledge**.
 
 
 ## Details  
