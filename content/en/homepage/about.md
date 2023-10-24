@@ -19,7 +19,7 @@ social:
     url: https://www.kaggle.com/horikitasaku
 
 
-weight: 2
+weight: 1
 widget:
   handler: about
 
