@@ -3,7 +3,7 @@ title: Vintage
 draft: false
 slogan: The Flame which fueled by Books. The One who fueled by knowledge.
 imgLeft: images/Saturn.jpg
-imgRight: images/jupiter.jpg
+imgRight: 
 
 weight: 4
 widget:
