@@ -16,7 +16,7 @@ summaryLength: 75
 
 defaultContentLanguage: en
 hasCJKLanguage: true # Set `true` for Chinese/Japanese/Korean.
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 
 # Uncomment for google analytics
 googleAnalytics: G-1VGR8P4Q2K
@@ -54,7 +54,7 @@ sitemap:
 
 languages.en.sitemap:
   changefreq : "weekly"
-  filename : "sitemap.xml"
+  filename : "en/sitemap.xml"
 
 languages.jp.sitemap:
   changefreq : "weekly"
