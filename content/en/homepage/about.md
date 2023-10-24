@@ -1,7 +1,7 @@
 ---
 title: About Me
 draft: false
-role: Horikita Saku
+role: Horikita Saku・堀北朔
 avatar: images/icon.png
 bio: 'The Flame which fueled by Books. 
 

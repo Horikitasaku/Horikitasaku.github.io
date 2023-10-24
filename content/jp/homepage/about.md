@@ -1,7 +1,7 @@
 ---
 title: About Me
 draft: false
-role: Horikita Saku
+role: Horikita Saku・堀北朔
 avatar: images/icon.png
 bio: 'この炎を燃やしたのは本でした。
 
