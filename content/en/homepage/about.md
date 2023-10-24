@@ -2,7 +2,7 @@
 title: About Me
 draft: false
 role: Horikita Saku
-avatar: images/avatar.png
+avatar: images/icon.png
 bio: 
 # organization:
 #   name: Example Organization
