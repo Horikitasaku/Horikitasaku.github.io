@@ -43,3 +43,23 @@ taxonomies:
 
 build:
   useResourceCacheWhen: always
+
+sitemap:
+  changefreq : "weekly"
+  priority : 0.5
+
+sitemap:
+  type : "sitemap"
+  filename : "sitemap.xml"
+
+languages.en.sitemap:
+  changefreq : "weekly"
+  filename : "sitemap.xml"
+
+languages.jp.sitemap:
+  changefreq : "weekly"
+  filename : "jp/sitemap.xml"
+
+languages.zh.sitemap:
+  changefreq : "weekly"
+  filename : "zh/sitemap.xml"
