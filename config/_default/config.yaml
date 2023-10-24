@@ -4,13 +4,12 @@ title: Horikita Saku
 # Uncomment when not installing with Hugo Modules
 # theme: eureka
 # Comment when not installing with Hugo Modules
-theme: wangchucheng.com/hugo-eureka
+theme: github.com/Horikitasaku/hugo-eureka
 # If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
 
 paginate: 3
 copyright: >
-  &copy; 2021 <a href="https://www.wangchucheng.com/">WANG Chucheng</a> and <a
-  href="https://www.ruiqima.com/">MA Ruiqi</a>
+  &copy; 2021 <a href="">Horikita Saku</a>
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75

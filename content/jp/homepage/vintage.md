@@ -5,7 +5,7 @@ slogan: この炎を燃やしたのは本でした。私の人生を支えてく
 imgLeft: images/hero-left.jpg
 imgRight: images/hero-right.jpg
 
-weight: 1
+weight: 4
 widget:
   handler: vintage
 

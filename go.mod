@@ -1,5 +1,5 @@
-module eureka
+module github.com/Horikitasaku/horikitasaku.github.io
 
 go 1.18
 
-require wangchucheng.com/hugo-eureka v0.9.3 // indirect
+require github.com/Horikitasaku/hugo-eureka v0.0.1 // indirect
