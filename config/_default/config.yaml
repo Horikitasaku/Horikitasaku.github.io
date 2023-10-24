@@ -9,7 +9,7 @@ theme: github.com/Horikitasaku/hugo-eureka
 
 paginate: 3
 copyright: >
-  &copy; 2021 <a href="">Horikita Saku</a>
+  &copy; 2023 <a href="">Horikita Saku</a>
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
