@@ -20,7 +20,7 @@ experiences:
     writeup: >
       Reconstruct the direction of neutrinos from the Universe to the South Pole
 
-      - In the competition on neutrinos and astrophysics, it won 21 places, the top 3% of all participating teams.
+      - In the competition on neutrinos and astrophysics, it won 21 places, the top 3% of all participating teams globally.
   
       - It's also my first medal.
 

@@ -8,7 +8,6 @@ bio: 'The Flame which fueled by Books.
 
 The One who fueled by knowledge.'
 
-description: Horikita Saku 堀北朔 Homepage EN
 
 # organization:
 #   name: Example Organization
