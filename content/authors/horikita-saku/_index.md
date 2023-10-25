@@ -1,5 +1,5 @@
 ---
-title: Hugo Authors
+title: Horikita Saku
 role: Example Role
 bio: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos.
 organization:
