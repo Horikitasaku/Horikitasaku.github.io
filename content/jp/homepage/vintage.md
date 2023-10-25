@@ -1,7 +1,7 @@
 ---
 title: Vintage
 draft: false
-slogan: 私は知識を追いかけて、敬虔さと熱愛を持って、孤独で尊敬します。
+slogan: 私は知識を追い求め、敬虔さと熱愛を持ちつつ、孤独で尊敬します。
 imgLeft: 
 imgRight: 
 
