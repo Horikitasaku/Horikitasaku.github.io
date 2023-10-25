@@ -13,7 +13,7 @@ series:
   - Star observation
 date: '2023-10-11'
 lastmod: '2023-10-25'
-featuredImage: images/Jupiter_big.jpg
+featuredImage: images/Saturn.png
 draft: false
 ---
 
