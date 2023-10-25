@@ -24,11 +24,11 @@ I got the following photos:
 
 <img src="../../../images/Saturn_small.jpg" alt="Saturn_small" style="zoom: 25%;" />
 
-It's already beautiful. Rings of Jupiter are perfect.
+It's already beautiful. Rings of Saturn are perfect.
 
 But I am not willing to use such a low power eyepiece.
 
-Attempts at automatic calibration using Vega and Jupiter, which have been found, were ultimately successful.
+Attempts at automatic calibration using Vega and Saturn, which have been found, were ultimately successful.
 
 I got clearer pictures.
 <img src="../../../images/Saturn.jpg" alt="Saturn_small" style="zoom: 25%;" />
