@@ -1,5 +1,5 @@
 ---
-title: First time with the astronomical telescope.
+title: 初めての天体望遠鏡
 description: Try to calibrate astronomical telescopes and make observations of Jupiter and Saturn.
 toc: true
 authors:
@@ -31,7 +31,16 @@ But I am not willing to use such a low power eyepiece.
 Attempts at automatic calibration using Vega and Saturn, which have been found, were ultimately successful.
 
 I got clearer pictures.
-<img src="../../../images/Saturn.jpg" alt="Saturn_small" style="zoom: 25%;" />
-<img src="../../../images/Jupiter_big.jpg" alt="Saturn_small" style="zoom: 25%;" />
+<div style="text-align: center;">
+    <img src="../../../images/Saturn.jpg" alt="Saturn" />
+    <h2 style="margin-top: 1px;">Saturn</h2>
+</div>
+
+<div style="text-align: center;">
+    <img src="../../../images/Jupiter_big.jpg" alt="Jupiter"/>
+    <h2 style="margin-top: 1px;">Jupiter</h2>
+</div>
+
+
 
 Astronomy is absolutely romantic, and seeing the stars with my own eyes is amazing.
