@@ -1,5 +1,5 @@
 ---
-title: 初めての天体望遠鏡
+title: First time with the astronomical telescope.
 description: Try to calibrate astronomical telescopes and make observations of Jupiter and Saturn.
 toc: true
 authors:

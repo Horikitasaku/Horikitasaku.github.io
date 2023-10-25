@@ -1,5 +1,5 @@
 ---
-title: 初めての天体望遠鏡
+title: 首次尝试了天文望远镜
 description: Try to calibrate astronomical telescopes and make observations of Jupiter and Saturn.
 toc: true
 authors:
