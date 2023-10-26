@@ -155,6 +155,9 @@ I was ecstatic, as if I had discovered a new world.
 
 I used this method on all my models and it got me to the top3%.
 
+After the competition, I noticed that the first few solutions were also trained in 2 stages.
+
+but they trained models on low and high pulses. Our solution takes into account the physical properties to divide into 2 stages.
 ##  Introspection
 
 It definitely made me feel the fascination of science, like Prof. Francis Halzen said, '...what science is all about is not finding what you expect to find, is to finding something you didn't have any idea you were going to find, is to find the unexpected. '
