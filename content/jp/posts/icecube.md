@@ -18,6 +18,10 @@ featuredImage: images/41185938.gif
 draft: false
 weight: 1
 ---
+## Introduction
+For the technical section, read more about DrHB and lafoss et al. Their papers are excellent. 
+
+I'm here to tell more about my own story.
 
 ## Description
 
