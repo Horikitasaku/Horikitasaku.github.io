@@ -8,6 +8,7 @@ tags:
   - Astronomy
   - Neutrinos
   - IceCube
+  - Deep Learning
 categories:
   - Astronomy
 series:
