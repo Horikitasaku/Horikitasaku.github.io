@@ -1,6 +1,6 @@
 ---
 title: 初めての天体望遠鏡
-description: Try to calibrate astronomical telescopes and make observations of Jupiter and Saturn.
+description: 天体望遠鏡を校正し、木星と土星の観測をしてみた。
 toc: true
 authors:
   - Horikita Saku
