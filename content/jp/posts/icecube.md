@@ -160,8 +160,7 @@ But in this competition, because of my inexperience with machine learning, I sti
 ## References
 [1] A. Chow, L. Heinrich, P. Eller, R. Ørsøe, and S. Dane,
 IceCube - Neutrinos in Deep Ice, 2023. [Online]. Available:
-https://kaggle.com/competitions/icecubeneutrinos-
-in-deep-ice.
+https://kaggle.com/competitions/icecubeneutrinos-in-deep-ice.
 
 [2] Mirco Hunnefield Masters Thesis, Online Reconstruction of Muon-Neutrino Events in IceCube using Deep Learning Techniques
 
