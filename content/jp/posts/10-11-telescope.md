@@ -33,12 +33,12 @@ draft: false
 鮮明な写真が撮れました。
 <div style="text-align: center;">
     <img src="../../../images/Saturn.jpg" alt="Saturn" />
-    <h2 style="margin-top: 1px;">Saturn</h2>
+    <p style="margin-top: 1px;">Saturn</p>
 </div>
 
 <div style="text-align: center;">
     <img src="../../../images/Jupiter_big.jpg" alt="Jupiter"/>
-    <h2 style="margin-top: 1px;">Jupiter</h2>
+    <p style="margin-top: 1px;">Jupiter</p>
 </div>
 
 
