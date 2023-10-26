@@ -1,6 +1,6 @@
 ---
 title: IceCube - Neutrinos in Deep Ice
-description: The top 3% of all participating teams globally. First Silver Medal.
+description: The top 3% of all participating teams globally. First Silver Medal. My story in the competition.
 toc: true
 authors:
   - Horikita Saku
