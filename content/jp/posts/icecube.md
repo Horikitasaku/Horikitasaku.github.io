@@ -19,7 +19,7 @@ draft: false
 weight: 1
 ---
 ## Introduction
-For the technical section, read more about DrHB and lafoss et al. Their papers are excellent. 
+For the technical section, read more about Habib Bukhari, Dipam Chakraborty, Philipp Eller et al. Their papers are excellent. [8]
 
 I'm here to tell more about my own story.
 
@@ -181,6 +181,8 @@ learning on point clouds, ACM Trans. Graph. 38 (2019) 146.
 [6] M. G. Aartsen et al., ‘Energy reconstruction methods in the IceCube neutrino telescope’, J. Inst., vol. 9, no. 03, p. P03009, Mar. 2014
 
 [7] ICECUBE COLLABORATION, ‘Evidence for High-Energy Extraterrestrial Neutrinos at the IceCube Detector’, Science, vol. 342, no. 6161, p. 1242856, Nov. 2013
+
+[8] Bukhari, H. et al. IceCube -- Neutrinos in Deep Ice The Top 3 Solutions from the Public Kaggle Competition. Preprint (2023).
 
 <style>
   .image-container {
