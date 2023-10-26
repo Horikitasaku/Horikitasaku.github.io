@@ -16,21 +16,21 @@ lastmod: '2023-10-25'
 featuredImage: images/Saturn.png
 draft: false
 ---
-At first, there seemed to be a problem with the auto-calibration, so I have to use the finderscope to find planets manually.
+最初は自動較正に問題があったようで、finderscopeを使って手動で惑星を探すしか。
 
-Manual adjustment means that planets cannot be automatically tracked, and they quickly disappear from view, so only low-power eyepieces can be used.
+手動調整は、惑星が自動的に追跡することができないことを意味し、それらはすぐに視界から消えるので、低倍接眼レンズだけが使用されることができる。
 
-I got the following photos:
+以下の写真を入手しました:
 
 <img src="../../../images/Saturn_small.jpg" alt="Saturn_small" style="zoom: 25%;" />
 
-It's already beautiful. Rings of Saturn are perfect.
+もう美しい。土星の環は完璧です。
 
-But I am not willing to use such a low power eyepiece.
+しかし、私はより高倍率の接眼レンズを使いたいと思っています。
 
-Attempts at automatic calibration using Vega and Saturn, which have been found, were ultimately successful.
+ベガと土星を用いた自動較正の試みは、最終的には成功した。
 
-I got clearer pictures.
+鮮明な写真が撮れました。
 <div style="text-align: center;">
     <img src="../../../images/Saturn.jpg" alt="Saturn" />
     <h2 style="margin-top: 1px;">Saturn</h2>
@@ -43,4 +43,4 @@ I got clearer pictures.
 
 
 
-Astronomy is absolutely romantic, and seeing the stars with my own eyes is amazing.
+天文学は絶対にロマンチックで、自分の目で星を見るのは素晴らしいことです。
