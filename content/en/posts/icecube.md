@@ -40,7 +40,7 @@ We use the Cherenkov light detected by icecube, the amount of pulse light, the t
 
 ### The Least Square
 
-In the original scheme, the least square method is used. [2]
+In the original scheme, the least square method is used. [2,3]
 
 Because if the pulse propagated in an omni-directional manner due to a neutrino collision, the time-weighted omni-directional properties should cancel each other out, leaving only the properties of the neutrino's direction of travel.
 
@@ -63,14 +63,14 @@ Although this is a very simple method and the score is not good, this method of 
 
 ### Graphnet and DynEdge
 
-Then I started training a GNN from Graphnet [3], an open-source ML library for neutrino telescopes.
+Then I started training a GNN from Graphnet [4], an open-source ML library for neutrino telescopes.
 
 <div style="text-align: center;">
     <img src="../../../images/Graphnet.png" alt="Graphnet"/>
-    <p style="margin-top: 1px;">Structure of Graphnet [3]</p>
+    <p style="margin-top: 1px;">Structure of Graphnet [4]</p>
 </div>
 The name of that GNN is DynEdge.
-And one of the most important technologies is `EdgeConv`. It is a flexible al-gorithm capable of reconstructing and classifying many dif-ferent physics tasks on both a per-pulse and per-event level. It reconstructed neutrino events as point clouds and convolved over them.[4]
+And one of the most important technologies is `EdgeConv`. It is a flexible al-gorithm capable of reconstructing and classifying many dif-ferent physics tasks on both a per-pulse and per-event level. It reconstructed neutrino events as point clouds and convolved over them.[5]
 
 
 For every node 𝑛 𝑗 with node features 𝑥 𝑗 , the operator convolves 𝑥 𝑗 via local neighborhood of 𝑛 𝑗 as
@@ -78,7 +78,7 @@ $$
 x_j = \sum_{i=1}^{N_{neighbors}} MLP(x_j - x_i)
 $$
 
-Here, $x_j$ represents the convolved node features of $n_j$, and the Multilayer Perceptron (MLP) takes as input the unconvolved node features of $n_j$ and the pairwise difference between the unconvolved node features of $n_j$ and its $i$-th neighbor. [3]
+Here, $x_j$ represents the convolved node features of $n_j$, and the Multilayer Perceptron (MLP) takes as input the unconvolved node features of $n_j$ and the pairwise difference between the unconvolved node features of $n_j$ and its $i$-th neighbor. [4]
 
 So EdgeConv receives node features and their differences from neighbors and convolves them on the graph. And its 'convolution kernel' is determined by the number of links.
 
@@ -109,11 +109,11 @@ We distinguish between cascade events and atmospheric muon events where neutrino
 
 <div class="image-container">
   <img src="../../../images/Muon_event.jpg" alt="Muon_event">
-  <p class="image-description">(a) A muon entering the detector and leaving only a small amount of energy behind. [5]</p>
+  <p class="image-description">(a) A muon entering the detector and leaving only a small amount of energy behind. [6]</p>
 </div>
 <div class="image-container">
   <img src="../../../images/Neutrino_event.jpg" alt="Neurino_event">
-  <p class="image-description">(b) A cascading burst event, with most of the energy remaining in the detector [5]</p>
+  <p class="image-description">(b) A cascading burst event, with most of the energy remaining in the detector [6]</p>
 </div>
 
 Every event contains neutrinos, but there are some events where neutrinos are hard to detect. For these events, we can focus on distinguishing atmospheric muons.
@@ -126,7 +126,7 @@ Because neutrinos can penetrate the Earth and muons cannot, muons must be shooti
 
 For typical neutrino telescope installation depths, there are five to six orders of magnitude more downward moving atmospheric muons than upward moving atmospheric neutrinos.
 
-After realizing this, we introduced the veto-zone. [6]
+After realizing this, we introduced the veto-zone. [7]
 
 Then We get two ways of filtering events.
 
@@ -157,11 +157,27 @@ It definitely made me feel the fascination of science, like Prof. Francis Halzen
 
 But in this competition, because of my inexperience with machine learning, I still missed a lot of methods, such as stacking.
 
+## References
+[1] A. Chow, L. Heinrich, P. Eller, R. Ørsøe, and S. Dane,
+IceCube - Neutrinos in Deep Ice, 2023. [Online]. Available:
+https://kaggle.com/competitions/icecubeneutrinos-
+in-deep-ice.
 
+[2] Mirco Hunnefield Masters Thesis, Online Reconstruction of Muon-Neutrino Events in IceCube using Deep Learning Techniques
 
+[3] Schatto, K. Stacked searches for high-energy neutrinos from blazars with IceCube. (Mainz U., 2014).
 
+[4] R. Abbasi, M. Ackermann, J. Adams, et al., “Graph
+neural networks for low-energy event classification
+& reconstruction in icecube,” Journal of Instrumentation,
+vol. 17, no. 11, P11003, 2022.
 
+[5] Y. Wang, Y. Sun, Z. Liu, S.E. Sarma, M.M. Bronstein and J.M. Solomon, Dynamic graph cnn for
+learning on point clouds, ACM Trans. Graph. 38 (2019) 146.
 
+[6] M. G. Aartsen et al., ‘Energy reconstruction methods in the IceCube neutrino telescope’, J. Inst., vol. 9, no. 03, p. P03009, Mar. 2014
+
+[7] ICECUBE COLLABORATION, ‘Evidence for High-Energy Extraterrestrial Neutrinos at the IceCube Detector’, Science, vol. 342, no. 6161, p. 1242856, Nov. 2013
 
 <style>
   .image-container {
