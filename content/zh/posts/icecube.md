@@ -74,7 +74,7 @@ Then I started training a GNN from Graphnet [4], an open-source ML library for n
     <p style="margin-top: 1px;">Structure of Graphnet [4]</p>
 </div>
 The name of that GNN is DynEdge.
-And one of the most important technologies is `EdgeConv`. It is a flexible algorithm capable of reconstructing and classifying many dif-ferent physics tasks on both a per-pulse and per-event level. It reconstructed neutrino events as point clouds and convolved over them.[5]
+And one of the most important technologies is `EdgeConv`. It is a flexible algorithm capable of reconstructing and classifying many dif-ferent physics tasks on both a per-pulse and per-event level. It reconstructed neutrino events as point clouds and convolved over them.[5,8]
 
 
 For every node 𝑛 𝑗 with node features 𝑥 𝑗 , the operator convolves 𝑥 𝑗 via local neighborhood of 𝑛 𝑗 as
