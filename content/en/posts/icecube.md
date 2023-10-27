@@ -20,7 +20,7 @@ draft: false
 weight: 1
 ---
 ## Introduction
-For the technical section, read more about Habib Bukhari, Dipam Chakraborty, Philipp Eller et al. Their papers are excellent. [8]
+For the technical section, read the paper from Habib Bukhari, Dipam Chakraborty, Philipp Eller et al. Their paper is excellent. [8]
 
 I'm here to tell more about my own story. And maybe a little general introduction to the techniques.
 
