@@ -60,7 +60,7 @@ Kaggle Expert.
 
 ## My personality
 
-I appreciate quiet spaces, enjoy reading, listen to the rain, and relish a good cup of coffee.
+I appreciate quiet spaces, reading, listening to the rain, and relishing a good cup of coffee.
 
 My favorite book is *If On a Winter's Night a Traveler*. 
 
