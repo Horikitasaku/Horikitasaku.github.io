@@ -3,10 +3,7 @@ title: About Me
 draft: false
 role: Horikita Saku・堀北朔
 avatar: images/icon.png
-bio: 'The Flame which fueled by Books. 
-
-
-The One who fueled by knowledge.'
+bio: 'A student aspiring to leverage AI for advancing natural and fundamental sciences.'
 
 
 # organization:
@@ -55,18 +52,16 @@ Autonym: YuXuan Wu; Pseudonym: Horikita Saku
 
 Majored in artificial intelligence as an undergraduate.
 
-Specializes in Data Science and the intersection with the natural sciences.
+Interested in the intersection of data science and natural sciences, particularly in the realms of astrophysical and biological information.
 
-Currently being explored in astrophysical and biological information.
+Currently working on a Python library focused on protein embedding for computational biology.
 
 Kaggle Expert.
 
 ## My personality
 
-The meaning of my life is given by knowledge, like the fire which is fueled by books.
+I appreciate quiet spaces, enjoy reading, listen to the rain, and relish a good cup of coffee.
 
-Like peace, reading, rain and coffee. Detest hypocrisy, politics, meaninglessness.
+My favorite book is *If On a Winter's Night a Traveler*. 
 
-Favorite Book is *If On a Winter's Night a Traveller*.
-
-Probably a bit of a workaholic.
+Probably a bit workaholic.
