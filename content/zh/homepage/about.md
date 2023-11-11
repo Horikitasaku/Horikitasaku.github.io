@@ -3,10 +3,7 @@ title: About Me
 draft: false
 role: Horikita Saku・堀北朔
 avatar: images/icon.png
-bio: '火焰因为书得以燃烧，
-
-
-我的生命因为知识有了意义。'
+bio: 一个希望利用人工智能来推进自然科学和基础科学的学生。
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
@@ -52,18 +49,16 @@ widget:
 
 本科专业是人工智能。
 
-擅长数据科学以及与自然科学的交叉。
+兴趣是数据科学以及与自然科学的交叉。尤其是天文物理学和生物信息。
 
-目前正在天体物理和生物信息领域探索。
+目前正在进行一个用于生物信息embedding的python库的开发。
 
 Kaggle Expert。
 
 ## My personality  
 
-我的生命的意义是由知识赋予的，就像那书籍上燃烧着的火。
+喜欢宁静、阅读、雨水和咖啡。
 
-喜欢宁静、阅读、雨水和咖啡。厌恶虚伪、政治、无意义。
+喜欢的书是《如果在冬夜，一个旅人》。
 
-喜欢的书《如果在冬夜，一个旅人》。
-
-可能有点工作狂的味道。
+可能有点工作狂。
