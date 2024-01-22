@@ -24,6 +24,13 @@ experiences:
   
       - It's also my first medal.
 
+  - title: Research Intern
+    organization:
+      name: Cogai4Sci
+      url: https://www.cogai4sci.com/
+    dates: "2024.1.3-Present"
+    location: 
+    writeup: >
 weight: 3
 widget:
   handler: experience

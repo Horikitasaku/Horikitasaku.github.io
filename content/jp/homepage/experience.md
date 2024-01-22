@@ -24,7 +24,13 @@ experiences:
       - ニュートリノと天体物理学の競争では、参加チームの上位3%である、21位を獲得しました。
   
       - 初めてのメダルです。
-
+  - title: リサーチ インター
+    organization:
+      name: Cogai4Sci
+      url: https://www.cogai4sci.com/
+    dates: "2024.1.3-Present"
+    location: 
+    writeup: >
 weight: 3
 widget:
   handler: experience
