@@ -141,7 +141,7 @@ In addition, as shown in Figure 4, IceCube features zones with significant dust 
 
 <div style="text-align: center;">
     <img src="../../../images/veto-zone.png" alt="vetozone"/>
-    <p style="margin-top: 1px;">Veto-Zone</p>
+    <p style="margin-top: 1px;">Figure4 Veto-Zone</p>
 </div>
 
 After realizing this, we introduced the ***veto-zone***. In the *veto-region*, we try to exclude muons and dust deposition regions, in order to obtain better quality pulse.
