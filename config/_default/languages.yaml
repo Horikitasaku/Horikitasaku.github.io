@@ -3,22 +3,18 @@ en:
   languageName: English
   # Uncomment for multilingual sites, and move the default content into corresponding sub-folder.
   contentDir: content/en
-  title: YuXuan Wu
+  title: YuXuan Wu/HorikitaSaku
 
 # Uncomment for multilingual sites, and customize the following config.
 zh:
   languageCode: zh
   languageName: 简体中文
   contentDir: content/zh
-  title: YuXuan Wu
-
-  # title: 中文标题
+  title: YuXuan Wu/HorikitaSaku
 
 
 jp:
   languageCode: jp
   languageName: 日本語
   contentDir: content/jp
-  title: YuXuan Wu
-
-  # title: 中文标题
+  title: YuXuan Wu/HorikitaSaku
