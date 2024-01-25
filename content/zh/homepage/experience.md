@@ -12,6 +12,14 @@ experiences:
           
           - 在加入kaggle社区大约一年后，成为了Kaggle Expert。
 
+  - title: 研究实习生
+    organization:
+      name: Cognitve AI for Science Team
+      url: https://www.cogai4sci.com/
+    dates: "2024.1.3-Present"
+    location: National University of Singapore
+    writeup: >
+
   - title: IceCube - Neutrinos in Deep Ice - Silver Medal
     organization:
       name: IceCube Neutrino Observatory
@@ -24,14 +32,6 @@ experiences:
       - 在中微子与天体物理学竞赛中，获得21th，在全球所有参赛队伍中排名前3%。
 
       - 这也是我的第一枚奖牌。
-
-  - title: 研究实习生
-    organization:
-      name: Cogai4Sci
-      url: https://www.cogai4sci.com/
-    dates: "2024.1.3-Present"
-    location: 
-    writeup: >
 
 weight: 3
 widget:

@@ -1,14 +1,12 @@
 ---
 title: About Me
 draft: false
-role: Horikita Saku・堀北朔
+role: YuXuan Wu・Horikita Saku
 avatar: images/icon.png
 bio: 'A student aspiring to leverage AI for advancing natural and fundamental sciences.'
-
-
-# organization:
-#   name: Example Organization
-#   url: https://example.com/
+organization:
+  name: National University of Singapore
+  url: https://nus.edu.sg/
 social:
   - icon: envelope
     iconPack: fas

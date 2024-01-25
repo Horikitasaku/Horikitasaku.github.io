@@ -1,5 +1,5 @@
 ---
-title: Horikita Saku
+title: YuXuan Wu
 role: Example Role
 bio: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos.
 organization:

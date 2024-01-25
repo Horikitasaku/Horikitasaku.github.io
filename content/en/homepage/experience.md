@@ -11,6 +11,14 @@ experiences:
     writeup: >
           About a year after joining the kaggle community, became Kaggle Expert.
 
+  - title: Research Intern
+    organization:
+      name: Cognitve AI for Science Team
+      url: https://www.cogai4sci.com/
+    dates: "2024.1-Present"
+    location: National University of Singapore
+    writeup: >
+
   - title: IceCube - Neutrinos in Deep Ice - Silver Medal
     organization:
       name: IceCube Neutrino Observatory
@@ -24,13 +32,6 @@ experiences:
   
       - It's also my first medal.
 
-  - title: Research Intern
-    organization:
-      name: Cogai4Sci
-      url: https://www.cogai4sci.com/
-    dates: "2024.1.3-Present"
-    location: 
-    writeup: >
 weight: 3
 widget:
   handler: experience
