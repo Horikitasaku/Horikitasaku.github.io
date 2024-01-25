@@ -42,7 +42,7 @@ For those seeking a more comprehensive technical understanding, I highly recomme
 
 Icecube detects neutrinos primarily by detecting the Cherenkov light. About Cherenkov light, it is the electromagnetic radiation emitted when charged particles pass through a dielectric at a speed greater than the phase velocity of light in the medium (the speed at which the wave front travels through the medium). I think the simple analogy to it is the sonic boom but Cerenkov light is a shock wave of light. So when neutrinos and nuclei react, they produce charged secondary particles, which in turn produce Cerenkov light. Then Icecube's Digital Optical module (DOM) can detect the Cerenkov light, telling us that a neutrino has passed through.
 
-Therefore, in the competition, we use the the energy of pulsed light, the time the detector detected the light, and the sensor coordinates to indirectly predict the neutrino and its path. The target is zenith Angle and azimuth Angle.
+Therefore, in the competition, we use the energy of pulsed light, the time the detector detected the light, and the sensor coordinates to indirectly predict the neutrino and its path. The target is zenith Angle and azimuth Angle.
 
 ### Possible difficulty
 
