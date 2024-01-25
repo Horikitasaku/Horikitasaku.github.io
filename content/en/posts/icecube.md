@@ -119,7 +119,7 @@ There's not a lot to explain. I simply designed a variety of LSTM and GRU combin
 
 ### ! Distinguish atmospheric muons !
 
-At the end of the competition for a month, my teammate [Enzo](https://www.kaggle.com/neomaoro) joined. It was at this stage that I found our greatest improvement.
+In the last month of the competition, my teammate [Enzo](https://www.kaggle.com/neomaoro) joined. It was at this stage that I found our greatest improvement.
 
 <div class="image-container">
   <img src="../../../images/Muon_event.jpg" alt="Muon_event">
