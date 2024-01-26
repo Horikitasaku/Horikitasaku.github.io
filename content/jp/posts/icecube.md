@@ -50,7 +50,7 @@ Therefore, in the competition, we use the energy of pulsing light, the duration 
 
 Detecting low-energy particles has always been a scientific problem for decades. Therefore, there are few possible difficulties arising from 2 following factors:
 
-1. **Detector sensitivity.**Icecube is designed to observe neutrinos with energies of about one-tenth of a TeV. Although the DeepCore subdetector extends this range to 50 GeV, allowing the detection of low-energy neutrinos, there are still neutrinos with even lower energy.
+1. **Detector sensitivity.** Icecube is designed to observe neutrinos with energies of about one-tenth of a TeV. Although the DeepCore subdetector extends this range to 50 GeV, allowing the detection of low-energy neutrinos, there are still neutrinos with even lower energy.
 2. **Noise from other particles.** Muons, produced by the interaction of cosmic rays with the Earth's atmosphere, can outnumber neutrino signals in IceCube. Approximately 1,000,000 muons are detected for every neutrino seen in IceCube.[[5](https://masterclass.icecube.wisc.edu/en/learn/detecting-neutrinos)]
 
 ### The Least Square
