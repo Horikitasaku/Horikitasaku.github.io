@@ -51,7 +51,7 @@ widget:
 
 兴趣是数据科学以及与自然科学的交叉。尤其是天文物理学和生物信息。
 
-目前正在进行一个用于生物信息embedding的python库的开发。
+目前正在与苏黎世理工进行一个用于生物信息embedding的python库的开发。
 
 Kaggle Expert。
 

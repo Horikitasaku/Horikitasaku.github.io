@@ -52,7 +52,7 @@ Majored in artificial intelligence as an undergraduate.
 
 Interested in the intersection of data science and natural sciences, particularly in the realms of astrophysical and biological information.
 
-Currently working on a Python library focused on protein embedding for computational biology.
+Currently working with ETH Zurich on a Python library focused on protein embedding for computational biology.
 
 Kaggle Expert.
 
