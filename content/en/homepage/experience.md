@@ -18,6 +18,7 @@ experiences:
     dates: "2024.1-Present"
     location: National University of Singapore
     writeup: >
+        - investigating the application of Nonlinear Methods in Genome-wide association studies (GWAS).
 
   - title: IceCube - Neutrinos in Deep Ice - Silver Medal
     organization:

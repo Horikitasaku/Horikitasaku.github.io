@@ -18,7 +18,9 @@ experiences:
       url: https://www.cogai4sci.com/
     dates: "2024.1.3-Present"
     location: National University of Singapore
-    writeup: >
+    writeup: > 
+
+          - 研究在Genome-wide association studies（GWAS）中非线性方法的应用。
 
   - title: IceCube - Neutrinos in Deep Ice - Silver Medal
     organization:
