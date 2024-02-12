@@ -53,6 +53,8 @@ widget:
 
 現在、チューリッヒ工科大学と共同で計算生物学のためのembeddingsに焦点を当てたpythonライブラリに取り組んでいます。
 
+同時にNUSでGWASでの非線形の方法の応用について研究します。
+
 Kaggle expert.
 
 ## My personality  

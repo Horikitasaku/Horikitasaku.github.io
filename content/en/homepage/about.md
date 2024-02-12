@@ -54,6 +54,8 @@ Interested in the intersection of data science and natural sciences, particularl
 
 Currently working with ETH Zurich on a Python library focused on protein embedding for computational biology.
 
+At the same time, I studied the application of nonlinear methods in GWAS at NUS.
+
 Kaggle Expert.
 
 ## My personality

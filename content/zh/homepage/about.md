@@ -53,6 +53,8 @@ widget:
 
 目前正在与苏黎世理工进行一个用于生物信息embedding的python库的开发。
 
+同时在NUS研究关于非线性方法在GWAS中的应用。
+
 Kaggle Expert。
 
 ## My personality  
