@@ -62,7 +62,7 @@ jobs:
           npm install -g -D @tailwindcss/typography
           npm install -g -D tailwindcss-rtl
           npm config list
-          echo 'export NODE_PATH=~/lib/node_modules:$NODE_PATH' >> ~/.profile
+          echo 'export NODE_PATH=/usr/local/lib/node_modules:$NODE_PATH' >> ~/.profile
           echo 'export PATH=/opt/hostedtoolcache/node/20.12.2/x64/bin/:$PATH' >> ~/.profile
           source ~/.profile
           whereis tailwindcss
