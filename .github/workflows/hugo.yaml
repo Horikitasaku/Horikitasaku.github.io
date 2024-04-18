@@ -66,7 +66,6 @@ jobs:
           source ~/.profile
           whereis tailwindcss
           whereis node_modules
-          whereis node_modules
 
       - name: Build with Hugo
         env:
