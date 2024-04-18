@@ -59,8 +59,7 @@ jobs:
           npm install -g -D @tailwindcss/typography
           npm install -g -D tailwindcss-rtl
           npm config list
-          whereis tailwindcss
-          source ~/.profile
+          whereis node_modules
 
       - name: Build with Hugo
         env:
