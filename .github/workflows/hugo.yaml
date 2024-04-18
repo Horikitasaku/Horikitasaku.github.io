@@ -53,12 +53,15 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm install npm
-          npm install postcss -D
-          npm install postcss-cli
-          npm install autoprefixer
-          npm install cssnano
-          npm install tailwindcss
+          mkdir ~/.npm-global
+          npm config set prefix '~/.npm-global'
+          echo 'export PATH=~/.npm-global/bin:$PATH' >> ~/.profile
+          npm install -g npm@10.5.2
+          npm install -g postcss -D
+          npm install -g postcss-cli
+          npm install -g autoprefixer
+          npm install -g cssnano
+          npm install -g tailwindcss
 
       - name: Build with Hugo
         env:
