@@ -61,7 +61,6 @@ jobs:
           npm config list
           echo 'export NODE_PATH=~/lib/node_modules:$NODE_PATH' >> ~/.profile
           source ~/.profile
-          whereis tailwindcss
 
       - name: Build with Hugo
         env:
