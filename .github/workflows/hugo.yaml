@@ -54,7 +54,6 @@ jobs:
       - name: Install dependencies
         run: |
           mkdir ~/.npm-global
-          npm run dev
           npm config set prefix '~/.npm-global'
           echo 'export PATH=~/.npm-global/bin:$PATH' >> ~/.profile
           npm install -g npm@10.5.2
