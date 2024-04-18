@@ -56,10 +56,14 @@ jobs:
           mkdir ~/.npm-global
           npm config set prefix '~/.npm-global'
           echo 'export PATH=~/.npm-global/bin:$PATH' >> ~/.profile
+          echo "::add-path::~/.npm-global/bin"
+          echo "::add-path::~/.npm-global/node_modules"
           npm install -g npm@10.5.2
           npm install -g -D postcss-cli
           npm install -g -D cssnano
           npm install -g -D tailwindcss@latest postcss@latest autoprefixer@latest
+      - name: Add npm global bin directory to PATH
+        run: 
 
       - name: Build with Hugo
         env:
