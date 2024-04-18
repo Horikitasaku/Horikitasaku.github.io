@@ -30,8 +30,6 @@ defaults:
 jobs:
   # Build job
   build:
-    runs:
-      using: 'node20'
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.125.0
