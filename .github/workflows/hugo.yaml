@@ -55,10 +55,10 @@ jobs:
         run: |
           npm install npm
           npm install postcss -D
-          npm install -g postcss-cli
-          npm install -g autoprefixer
-          npm install -g cssnano
-          npm install -g tailwindcss
+          npm install postcss-cli
+          npm install autoprefixer
+          npm install cssnano
+          npm install tailwindcss
 
       - name: Build with Hugo
         env:
