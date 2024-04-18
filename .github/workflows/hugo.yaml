@@ -62,8 +62,6 @@ jobs:
           npm install -g -D postcss-cli
           npm install -g -D cssnano
           npm install -g -D tailwindcss@latest postcss@latest autoprefixer@latest
-      - name: Add npm global bin directory to PATH
-        run: 
 
       - name: Build with Hugo
         env:
