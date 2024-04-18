@@ -2,5 +2,8 @@
   command = "hugo --gc --minify"
   publish = "public"
 
+[[module.imports]]
+path="github.com/Horikitasaku/hugo-eureka/v0.1.7"
+
 [build.environment]
-  HUGO_VERSION = "0.100.0"
+  HUGO_VERSION = "0.124.1"
