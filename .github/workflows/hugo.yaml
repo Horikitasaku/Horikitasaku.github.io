@@ -52,8 +52,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      # - name: Install Node.js dependencies
+      #   run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Install dependencies
         run: |
           npm install -g -D tailwindcss@latest postcss@latest autoprefixer@latest
@@ -64,7 +64,9 @@ jobs:
           npm config list
           echo 'export NODE_PATH=~/lib/node_modules:$NODE_PATH' >> ~/.profile
           source ~/.profile
-          whereis npm
+          whereis tailwindcss
+          whereis node_modules
+          whereis node_modules
 
       - name: Build with Hugo
         env:
