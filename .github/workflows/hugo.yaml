@@ -63,6 +63,7 @@ jobs:
           echo 'export PATH=~/.npm-global/bin:$PATH' >> ~/.profile
           echo 'export NODE_PATH=~/.npm-global/node_modules:$NODE_PATH' >> ~/.profile
           source ~/.profile
+          whereis tailwindcss
 
       - name: Build with Hugo
         env:
