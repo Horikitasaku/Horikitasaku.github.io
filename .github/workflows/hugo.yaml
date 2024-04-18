@@ -55,10 +55,9 @@ jobs:
         run: |
           mkdir ~/.npm-global
           npm config set prefix '~/.npm-global'
-          npm install -g npm@10.5.2
+          npm install -g -D tailwindcss@latest postcss@latest autoprefixer@latest
           npm install -g -D postcss-cli
           npm install -g -D cssnano
-          npm install -g -D tailwindcss@latest postcss@latest autoprefixer@latest
           npm install -g -D @tailwindcss/typography
           npm install -g -D tailwindcss-rtl
           npm config list
