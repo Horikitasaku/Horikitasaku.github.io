@@ -53,16 +53,13 @@ jobs:
 
       - name: Install dependencies
         run: |
-          mkdir ~/.npm-global
-          npm config set prefix '~/.npm-global'
           npm install -g -D tailwindcss@latest postcss@latest autoprefixer@latest
           npm install -g -D postcss-cli
           npm install -g -D cssnano
           npm install -g -D @tailwindcss/typography
           npm install -g -D tailwindcss-rtl
           npm config list
-          echo 'export PATH=~/.npm-global/bin:$PATH' >> ~/.profile
-          echo 'export NODE_PATH=~/.npm-global/bin:$NODE_PATH' >> ~/.profile
+          whereis tailwindcss
           source ~/.profile
 
       - name: Build with Hugo
