@@ -65,6 +65,14 @@ jobs:
         with:
           path: ./public
 
+      - name: Install dependencies
+        run: |
+          npm install postcss -D
+          npm install -g postcss-cli
+          npm install -g autoprefixer
+          npm install -g cssnano
+          npm install -g tailwindcss
+  
   # Deployment job
   deploy:
     environment:
