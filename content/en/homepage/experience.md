@@ -29,7 +29,9 @@ experiences:
       Reconstruct the direction of neutrinos from the Universe to the South Pole
 
       - Achieved the 21th in the Neutrinos and Astrophysics competition, ranking in the top 3% globally among all participating teams.
+  
       - Utilized a 3D point cloud convolution model based on the EdgeConv operator, developed various RNN models, and employed a multi-stage training method grounded in IceCube's physical principles.
+  
       - This achievement also marks my first medal in Kaggle competitions.
 
   - title: HMS - Harmful Brain Activity Classification - Silver Medal(top2%)
