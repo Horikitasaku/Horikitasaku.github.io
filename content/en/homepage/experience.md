@@ -9,7 +9,9 @@ experiences:
     dates: "2023 - Present"
     location: 
     writeup: >
-        - After a year of active engagement within the Kaggle community and consistent contributions to code, achieved the distinction of Kaggle Notebook Expert. Subsequently, earned two silver medals and progressed to the role of Competition Expert.
+        - After a year of active engagement within the Kaggle community and consistent contributions to code, achieved the distinction of Kaggle Notebook Expert. 
+  
+        - Subsequently, earned two silver medals and progressed to the role of Competition Expert.
   - title: Research Intern
     organization:
       name: Cognitve AI for Science Team

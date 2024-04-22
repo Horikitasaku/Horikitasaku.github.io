@@ -9,7 +9,9 @@ experiences:
     dates: "2023 - Present"
     location: 
     writeup: >
-          - 在加入Kaggle社区并持续贡献代码一年后，成为了Kaggle Notebook Expert。随后，获得了两枚银牌，并成为了Competition Expert。
+          - 在加入Kaggle社区并持续贡献代码一年后，成为了Kaggle Notebook Expert。
+  
+          - 获得了两枚银牌，并成为了Competition Expert。
   - title: 研究实习生
     organization:
       name: Cognitve AI for Science Team

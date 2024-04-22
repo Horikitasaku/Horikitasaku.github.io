@@ -9,7 +9,9 @@ experiences:
     dates: "2023 - Present"
     location: 
     writeup: >
-        - Kaggleコミュニティでの積極的な参加とコードへの継続的な貢献の1年後、Kaggle Notebook Expertを得ました。その後、2つの銀メダルを獲得し、Competition Expertの役割に進みました。
+        - Kaggleコミュニティでの積極的な参加とコードへの継続的な貢献の1年後、Kaggle Notebook Expertを得ました。
+  
+        - 2つの銀メダルを獲得し、Competition Expertの役割に進みました。
 
   - title: リサーチ インター
     organization:
