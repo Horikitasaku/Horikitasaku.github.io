@@ -21,10 +21,11 @@ experiences:
     location: National University of Singapore
     writeup: >
         - genome-wide association studies (GWAS)での非線形手法の応用を研究しています。
-  - title: IceCube - Neutrinos in Deep Ice - Silver Medal
+  - title: IceCube - Neutrinos in Deep Ice - Silver Medal(top3%)
+    titleUrl: https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice
     organization:
       name: IceCube Neutrino Observatory
-      url: https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice
+      url: https://icecube.wisc.edu/
     dates: "2023"
     location: 
     writeup: >
@@ -37,10 +38,10 @@ experiences:
       - 初めてのメダルです。
 
   - title: HMS - Harmful Brain Activity Classification - Silver Medal(top2%)
-    url: https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification
+    titleUrl: https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification
     organization:
       name: ハーバード医学校
-      url: https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification
+      url: https://hms.harvard.edu/s
       
     dates: "2024"
     location: 

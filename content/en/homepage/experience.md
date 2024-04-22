@@ -22,9 +22,10 @@ experiences:
         - investigating the application of Nonlinear Methods in Genome-wide association studies (GWAS).
 
   - title: IceCube - Neutrinos in Deep Ice - Silver Medal(top3%)
+    titleUrl: https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice
     organization:
       name: IceCube Neutrino Observatory
-      url: https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice
+      url: https://icecube.wisc.edu/
     dates: "2023"
     location: 
     writeup: >
@@ -37,9 +38,10 @@ experiences:
       - This achievement also marks my first medal in Kaggle competitions.
 
   - title: HMS - Harmful Brain Activity Classification - Silver Medal(top2%)
+    titleUrl: https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification
     organization:
       name: Harvard Medical School
-      url: https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification
+      url: https://hms.harvard.edu/
     dates: "2024"
     location: 
     writeup: >
