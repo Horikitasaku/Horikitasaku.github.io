@@ -21,6 +21,7 @@ experiences:
     writeup: > 
 
           - 研究在Genome-wide association studies（GWAS）中非线性方法的应用。
+
           - VQ / Machine unlearning
 
   - title: IceCube - Neutrinos in Deep Ice - Silver Medal(top3%)
