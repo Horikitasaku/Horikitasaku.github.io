@@ -19,6 +19,7 @@ experiences:
     location: National University of Singapore
     writeup: >
         - investigating the application of Nonlinear Methods in Genome-wide association studies (GWAS).
+        - VQ / Machine unlearning
 
   - title: IceCube - Neutrinos in Deep Ice - Silver Medal
     organization:

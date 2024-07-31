@@ -20,6 +20,8 @@ experiences:
     location: National University of Singapore
     writeup: >
         - genome-wide association studies (GWAS)での非線形手法の応用を研究しています。
+        - VQ / Machine unlearning
+
   - title: IceCube - Neutrinos in Deep Ice - Silver Medal
     organization:
       name: IceCube Neutrino Observatory
