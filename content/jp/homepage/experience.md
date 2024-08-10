@@ -13,7 +13,7 @@ experiences:
   
         - 2つの銀メダルを獲得し、Competition Expertの役割に進みました。
 
-  - title: リサーチ インター
+  - title: 訪問学者
     organization:
       name: Cognitve AI for Science Team
       url: https://www.cogai4sci.com/

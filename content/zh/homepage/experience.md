@@ -12,7 +12,7 @@ experiences:
           - 在加入Kaggle社区并持续贡献代码一年后，成为了Kaggle Notebook Expert。
   
           - 获得了两枚银牌，并成为了Competition Expert。
-  - title: 研究实习生
+  - title: 访问学者
     organization:
       name: Cognitve AI for Science Team
       url: https://www.cogai4sci.com/
