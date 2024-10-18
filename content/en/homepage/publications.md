@@ -1,23 +1,25 @@
 ---
-title: Pages
-draft: false
-# Section you want to display
-section: posts
-# Pages count
-count: 5
-# Options: card, plain and masonry.
-style: plain
+title: Publications
+publications:
+  - title: "CodeUnlearn: Amortized Zero-Shot Machine Unlearning in Language Models Using Discrete Concept."
+    publicationUrl: https://arxiv.org/abs/2410.10866
+    journal:
+      name: Under Review at ICLR
+      url: 
+    year: "2024"
+    dates: ""
+    abstract: "**YuXuan Wu**, Bonaventure F. P. Dossou, Dianbo Liu"
 
-weight: 3
+weight: 1
 widget:
-  handler: pages
+  handler: publications
 
   # Options: sm, md, lg and xl. Default is md.
-  width:
+  width: lg
 
   sidebar:
     # Options: left and right. Leave blank to hide.
-    position:
+    position: right
     # Options: sm, md, lg and xl. Default is md.
     scale:
 
@@ -30,5 +32,5 @@ widget:
     # Options: center, top, right, bottom, left.
     position:
     # Options: fixed, local, scroll.
-    attachment: 
+    attachment:
 ---

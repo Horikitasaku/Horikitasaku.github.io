@@ -31,9 +31,14 @@ markup:
     endLevel: 6 
     ordered: false
   goldmark:
-  
     renderer:
       unsafe: true
+
+  sass:
+    outputStyle: compressed
+
+  postCSS:
+    enabled: true
 
 taxonomies:
   category: categories

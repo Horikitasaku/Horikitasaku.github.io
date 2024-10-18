@@ -54,7 +54,7 @@ experiences:
   
       - 开发了基于脑电图信号的1D模型，并采用创新的训练方法创建了有效的1D+2D多模态模型。
 
-weight: 3
+weight: 4
 widget:
   handler: experience
 

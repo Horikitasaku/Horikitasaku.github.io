@@ -1,0 +1,155 @@
+.sticky-toc {
+  position: sticky;
+  top: 8rem; /* top-32 */
+  z-index: 0;
+  transition: all 0.3s ease-in-out;
+}
+
+.sticky-toc a {
+  color: var(--secondary-text);
+  transition: color 0.2s ease-in-out;
+}
+
+.sticky-toc a:hover {
+  color: var(--color-eureka);
+}
+
+.sticky-toc ul,
+.sticky-toc ol {
+  padding-left: 2rem; /* ps-8 */
+  color: var(--tertiary-text);
+  font-size: 1rem;
+  list-style-position: outside;
+}
+
+.sticky-toc ul {
+  list-style-type: disc;
+}
+
+.sticky-toc ol {
+  list-style-type: decimal;
+}
+
+.sticky-toc li + li {
+  margin-top: 0.25rem; /* mt-1 */
+}
+
+.sticky-toc li > p + p {
+  margin-top: 1.5rem; /* mt-6 */
+}
+
+.object-contain {
+  object-fit: contain !important;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+.pagination .page-item {
+  display: flex;
+  align-items: center;
+}
+
+.pagination .page-item .page-link {
+  margin: 0.5rem; /* m-2 */
+  padding: 0.5rem; /* p-2 */
+}
+
+.pagination .active,
+.pagination .page-item:not(.disabled):hover,
+.selected-menu-item {
+  color: var(--color-eureka);
+  border-top-color: var(--color-eureka);
+  border-bottom-color: transparent;
+}
+
+.menu-hover-fill {
+  li {
+    position: relative;
+
+    &::before {
+      position: absolute;
+      content: "";
+      top: 0;
+      left: -1rem;
+      width: 0.25rem;
+      height: 100%;
+      background: var(--menu-link-active-color);
+      transition: 0.6s;
+    }
+
+    a {
+      --menu-link-color: var(--grey-color);
+      position: relative;
+      background: linear-gradient(var(--menu-link-active-color) 0 100%) left / 0 no-repeat;
+      color: transparent;
+      background-clip: text;
+      -webkit-background-clip: text;
+      transition: background-size 0.45s 0.04s;
+
+      &::before {
+        position: absolute;
+        content: attr(data-text);
+        z-index: -1;
+        color: var(--menu-link-color);
+      }
+    }
+
+    @for $i from 1 through length($menu-link-active-colors) {
+      &:nth-child(#{$i}) {
+        --menu-link-active-color: #{nth($menu-link-active-colors, $i)};
+      }
+    }
+
+    &:hover {
+      &::before {
+        left: calc(100% + 1rem);
+      }
+
+      a {
+        background-size: 100%;
+      }
+    }
+  }
+}
+
+.slidebar {
+  position: fixed;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 40;
+  transition: transform 0.3s ease-in-out;
+}
+
+.slidebar-toggle {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translate(-100%, -50%);
+  background-color: var(--secondary-bg);
+  padding: 0.5rem;
+  border-radius: 0 0.375rem 0.375rem 0;
+  transition: background-color 0.3s ease;
+}
+
+#slidebar-toggle:hover {
+  background-color: var(--primary-color);
+}
+
+.bg-secondary-bg {
+  background-color: #f8f9fa; 
+}
+
+.menu-hover-fill a:hover {
+  color: var(--primary-color); 
+}
+
+
+.experience-section,
+.pages-section {
+  padding-top: 100px;
+  margin-top: -100px;
+}
