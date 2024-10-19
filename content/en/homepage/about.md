@@ -50,9 +50,9 @@ Autonym: YuXuan Wu; Pseudonym: Horikita Saku
 
 Majored in artificial intelligence as an undergraduate.
 
-Interested in the intersection of data science and natural sciences, particularly in the realms of astrophysical and biological information.
+Interested in the intersection of data science and natural sciences, particularly in the realms of biological information and astrophysical.
 
-Currently working with ETH Zurich on a Python library focused on protein embedding for computational biology.
+Currently conducting research on discrete representation and AI applications in bioinformatics and medicine at the National University of Singapore, including GWAS and single-cell analysis.
 
 At the same time, I studied the application of nonlinear methods in GWAS at NUS.
 
