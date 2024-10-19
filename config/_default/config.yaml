@@ -47,7 +47,7 @@ taxonomies:
   author: authors
 
 build:
-  useResourceCacheWhen: always #fallback always
+  useResourceCacheWhen: fallback #fallback always
 
 enableRobotsTXT: true
 noindex : false
