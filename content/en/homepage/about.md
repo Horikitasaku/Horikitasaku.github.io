@@ -54,8 +54,6 @@ Interested in the intersection of data science and natural sciences, particularl
 
 Currently conducting research on discrete representation and AI applications in bioinformatics and medicine at the National University of Singapore, including GWAS and single-cell analysis.
 
-At the same time, I studied the application of nonlinear methods in GWAS at NUS.
-
 Kaggle Expert.
 
 ## My personality
