@@ -53,8 +53,6 @@ widget:
 
 目前在新加坡国立大学从事离散表示和人工智能在生物信息学和医学中的应用研究，包括GWAS和单细胞分析。
 
-同时在NUS研究关于非线性方法在GWAS中的应用。
-
 Kaggle Expert。
 
 ## My personality  
