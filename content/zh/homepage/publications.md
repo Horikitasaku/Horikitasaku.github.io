@@ -1,7 +1,7 @@
 ---
 title: Publications
 publications:
-  - title: "CodeUnlearn: Amortized Zero-Shot Machine Unlearning in Language Models Using Discrete Concept."
+  - title: "CodeUnlearn: Amortized Zero-Shot Machine Unlearning in Language Models Using Discrete Concept"
     publicationUrl: https://arxiv.org/abs/2410.10866
     journal:
       name: Under Review at ICLR
