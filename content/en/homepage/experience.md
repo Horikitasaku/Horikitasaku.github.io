@@ -2,16 +2,14 @@
 title: Experience
 draft: false
 experiences:
-  - title: Kaggle Expert
+  - title: Kaggle Expert * 3
     organization:
-      name: Kaggle * 2
+      name: Kaggle
       url: https://www.kaggle.com/horikitasaku
     dates: "2023 - Present"
     location: 
-    writeup: >
-        - After a year of active engagement within the Kaggle community and consistent contributions to code, achieved the distinction of Kaggle Notebook Expert. 
-  
-        - Subsequently, earned two silver medals and progressed to the role of Competition Expert.
+    writeup: > 
+
   - title: Visiting Scholarship
     organization:
       name: Cognitve AI for Science Team
