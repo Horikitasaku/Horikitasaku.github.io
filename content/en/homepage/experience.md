@@ -17,9 +17,9 @@ experiences:
     dates: "2024.1-Present"
     location: National University of Singapore
     writeup: >
-        - investigating the application of Nonlinear Methods in Genome-wide association studies (GWAS).
+        - Single cell omics analysis
 
-        - VQ / Machine unlearning
+        - VQ-VAE / Discrete Representation / Machine unlearning
 
   - title: IceCube - Neutrinos in Deep Ice - Silver Medal(top3%)
     titleUrl: https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice

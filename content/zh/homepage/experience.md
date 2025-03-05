@@ -18,9 +18,9 @@ experiences:
     location: National University of Singapore
     writeup: > 
 
-          - 研究在Genome-wide association studies（GWAS）中非线性方法的应用。
+          - 单细胞组学分析
 
-          - VQ / Machine unlearning
+          - VQ-VAE / Discrete Representation / Machine unlearning
 
   - title: IceCube - Neutrinos in Deep Ice - Silver Medal(top3%)
     titleUrl: https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice

@@ -17,9 +17,9 @@ experiences:
     dates: "2024.1.3-Present"
     location: National University of Singapore
     writeup: >
-        - genome-wide association studies (GWAS)での非線形手法の応用を研究しています。
+        - 単細胞ミクス解析
   
-        - VQ / Machine unlearning
+        - VQ-VAE / Discrete Representation / Machine unlearning
 
   - title: IceCube - Neutrinos in Deep Ice - Silver Medal(top3%)
     titleUrl: https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice
