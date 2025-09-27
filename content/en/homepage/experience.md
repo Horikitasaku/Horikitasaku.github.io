@@ -2,7 +2,7 @@
 title: Experience
 draft: false
 experiences:
-  - title: Kaggle Expert * 3
+  - title: Kaggle Master
     organization:
       name: Kaggle
       url: https://www.kaggle.com/horikitasaku
@@ -20,6 +20,23 @@ experiences:
         - Single cell omics analysis
 
         - VQ-VAE / Discrete Representation / Machine unlearning
+
+  - title: NeurIPS - Ariel Data Challenge 2025 - Gold Medal 7th
+    titleUrl: https://www.kaggle.com/competitions/ariel-data-challenge-2025
+    organization:
+      name: NeurIPS Competitions / UCL
+      url: https://blog.neurips.cc/2025/06/27/neurips-2025-competitions-announced/
+    dates: "2025"
+    location: 
+    writeup: >
+      Predict the area ratio of planets and stars and the confidence level (uncertainty) sigma.
+
+      - Achieved the 7th(1%) in the NeurIPS Competition. Achieve my first gold medal.
+  
+      - We have developed a method that spans from heuristic forward modeling to Gaussian processes, to deep learning, and to gradient boosting trees.
+  
+      - Become Kaggle Competition Masters.
+
 
   - title: IceCube - Neutrinos in Deep Ice - Silver Medal(top3%)
     titleUrl: https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice

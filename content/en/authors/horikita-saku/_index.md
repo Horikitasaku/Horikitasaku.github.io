@@ -54,7 +54,7 @@ Interested in the intersection of data science and natural sciences, particularl
 
 Currently working on a Python library focused on protein embedding for computational biology.
 
-Kaggle Expert.
+Kaggle Master.
 
 ## My personality
 

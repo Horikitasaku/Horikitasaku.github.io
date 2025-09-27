@@ -54,7 +54,7 @@ Interested in the intersection of data science and natural sciences, particularl
 
 Currently conducting research on discrete representation and AI applications in bioinformatics and medicine at the National University of Singapore, including GWAS and single-cell analysis.
 
-Kaggle Expert.
+Kaggle Master.
 
 ## My personality
 

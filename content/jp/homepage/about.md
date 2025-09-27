@@ -53,7 +53,7 @@ widget:
 
 現在、シンガポール国立大学でGWASや単細胞解析など、離散表現や人工知能のバイオインフォマティクスや医学への応用研究に従事しています。
 
-Kaggle expert.
+Kaggle Master.
 
 ## My personality  
 

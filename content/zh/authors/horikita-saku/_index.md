@@ -53,7 +53,7 @@ widget:
 
 目前正在进行一个用于生物信息embedding的python库的开发。
 
-Kaggle Expert。
+Kaggle Master。
 
 ## My personality  
 

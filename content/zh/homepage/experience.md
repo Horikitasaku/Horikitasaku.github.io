@@ -2,13 +2,13 @@
 title: Experience
 draft: false
 experiences:
-  - title: Kaggle Expert * 3
+  - title: Kaggle Master
     organization:
       name: Kaggle
       url: https://www.kaggle.com/horikitasaku
     dates: "2023 - Present"
     location: 
-    writeup: >
+    writeup: > 
 
   - title: 访问学者
     organization:
@@ -21,6 +21,22 @@ experiences:
           - 单细胞组学分析
 
           - VQ-VAE / Discrete Representation / Machine unlearning
+
+  - title: NeurIPS - Ariel Data Challenge 2025 - Gold Medal 7th
+    titleUrl: https://www.kaggle.com/competitions/ariel-data-challenge-2025
+    organization:
+      name: NeurIPS Competitions / UCL
+      url: https://blog.neurips.cc/2025/06/27/neurips-2025-competitions-announced/
+    dates: "2025"
+    location: 
+    writeup: >
+      预测行星与恒星的面积比以及预测结果的置信水平（不确定性 sigma）。
+
+      - 在 NeurIPS 竞赛中获得第 7 名（前 1%），取得我的第一枚金牌。
+  
+      - We have developed a method that spans from heuristic forward modeling to Gaussian processes, to deep learning, and to gradient boosting trees.
+  
+      - Become Kaggle Competition Masters.
 
   - title: IceCube - Neutrinos in Deep Ice - Silver Medal(top3%)
     titleUrl: https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice

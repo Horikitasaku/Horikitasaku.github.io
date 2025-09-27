@@ -2,7 +2,7 @@
 title: Experience
 draft: false
 experiences:
-  - title: Kaggle Expert * 3
+  - title: Kaggle Master
     organization:
       name: Kaggle
       url: https://www.kaggle.com/horikitasaku
@@ -20,6 +20,22 @@ experiences:
         - 単細胞ミクス解析
   
         - VQ-VAE / Discrete Representation / Machine unlearning
+
+  - title: NeurIPS - Ariel Data Challenge 2025 - 金メダル 第7位
+    titleUrl: https://www.kaggle.com/competitions/ariel-data-challenge-2025
+    organization:
+      name: NeurIPS Competitions / UCL
+      url: https://blog.neurips.cc/2025/06/27/neurips-2025-competitions-announced/
+    dates: "2025"
+    location: 
+    writeup: >
+      惑星と恒星の面積比およびその予測に対する信頼度（不確実性 σ）を推定する。
+
+      - NeurIPS コンペティションで第7位（上位1%）を獲得し，初の金メダルを達成。
+  
+      - フォワードモデリングからガウス過程，ディープラーニング，勾配ブースティング木までを組み合わせた手法を開発。
+  
+      - Kaggle Competition Master に昇格。
 
   - title: IceCube - Neutrinos in Deep Ice - Silver Medal(top3%)
     titleUrl: https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice

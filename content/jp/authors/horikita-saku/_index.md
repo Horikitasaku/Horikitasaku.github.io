@@ -53,7 +53,7 @@ widget:
 
 現在、計算生物学のためのembeddingsに焦点を当てたpythonライブラリに取り組んでいます。
 
-Kaggle expert.
+Kaggle Master.
 
 ## My personality  
 

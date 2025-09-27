@@ -53,7 +53,7 @@ widget:
 
 目前在新加坡国立大学从事离散表示和人工智能在生物信息学和医学中的应用研究，包括GWAS和单细胞分析。
 
-Kaggle Expert。
+Kaggle Master。
 
 ## My personality  
 
