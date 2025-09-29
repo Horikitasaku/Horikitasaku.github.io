@@ -52,7 +52,7 @@ Majored in artificial intelligence as an undergraduate.
 
 Interested in the intersection of data science and natural sciences, particularly in the realms of biological information and astrophysical.
 
-Currently conducting research on discrete representation and AI applications in bioinformatics and medicine at the National University of Singapore, including GWAS and single-cell analysis.
+Currently conducting research on discrete representation and AI applications in bioinformatics and medicine, including GWAS and single-cell analysis.
 
 Kaggle Master.
 

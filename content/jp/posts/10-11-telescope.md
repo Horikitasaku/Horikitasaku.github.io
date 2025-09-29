@@ -15,6 +15,7 @@ date: '2023-10-11'
 lastmod: '2023-10-25'
 featuredImage: images/Saturn.png
 draft: false
+weight: 2
 ---
 最初は自動較正に問題があったようで、finderscopeを使って手動で惑星を探すしか。
 

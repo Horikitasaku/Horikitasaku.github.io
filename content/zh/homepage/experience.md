@@ -23,7 +23,7 @@ experiences:
           - VQ-VAE / Discrete Representation / Machine unlearning
 
   - title: NeurIPS - Ariel Data Challenge 2025 - Gold Medal 7th
-    titleUrl: https://www.kaggle.com/competitions/ariel-data-challenge-2025
+    titleUrl: https://www.kaggle.com/competitions/ariel-data-challenge-2025/writeups/7st-place-solution
     organization:
       name: NeurIPS Competitions / UCL
       url: https://blog.neurips.cc/2025/06/27/neurips-2025-competitions-announced/
@@ -34,9 +34,9 @@ experiences:
 
       - 在 NeurIPS 竞赛中获得第 7 名（前 1%），取得我的第一枚金牌。
   
-      - We have developed a method that spans from heuristic forward modeling to Gaussian processes, to deep learning, and to gradient boosting trees.
+      - 我们的方法从启发式正向建模，到高斯过程，再到深度学习与梯度提升树。
   
-      - Become Kaggle Competition Masters.
+      - 晋升为 Kaggle Competition Master。
 
   - title: IceCube - Neutrinos in Deep Ice - Silver Medal(top3%)
     titleUrl: https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice

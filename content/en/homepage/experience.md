@@ -22,7 +22,7 @@ experiences:
         - VQ-VAE / Discrete Representation / Machine unlearning
 
   - title: NeurIPS - Ariel Data Challenge 2025 - Gold Medal 7th
-    titleUrl: https://www.kaggle.com/competitions/ariel-data-challenge-2025
+    titleUrl: https://www.kaggle.com/competitions/ariel-data-challenge-2025/writeups/7st-place-solution
     organization:
       name: NeurIPS Competitions / UCL
       url: https://blog.neurips.cc/2025/06/27/neurips-2025-competitions-announced/

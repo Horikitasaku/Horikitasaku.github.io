@@ -15,6 +15,7 @@ date: '2023-10-11'
 lastmod: '2023-10-25'
 featuredImage: images/Saturn.png
 draft: false
+weight: 2
 ---
 At first, there seemed to be a problem with the auto-calibration, so I have to use the finderscope to find planets manually.
 
