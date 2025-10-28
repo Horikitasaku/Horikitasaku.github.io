@@ -4,11 +4,12 @@ publications:
   - title: "CodeUnlearn: Amortized Zero-Shot Machine Unlearning in Language Models Using Discrete Concept"
     publicationUrl: https://arxiv.org/abs/2410.10866
     journal:
-      name: Under Review at ICML
+      name: Neurips 2024 Workshop
       url: 
-    year: "2025"
+    year: "2024"
     dates: ""
-    authors: "**YuXuan Wu**, Bonaventure F. P. Dossou, Dianbo Liu"
+    abstract: "**YuXuan Wu**, Bonaventure F. P. Dossou, Dianbo Liu"
+
 weight: 1
 widget:
   handler: publications
