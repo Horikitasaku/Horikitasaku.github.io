@@ -8,7 +8,7 @@ count: 3
 # Options: card, plain and masonry.
 style: plain
 
-weight: 2
+weight: 3
 widget:
   handler: pages
 

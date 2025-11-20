@@ -68,7 +68,7 @@ experiences:
   
       - EEG信号に基づいた1Dモデルを開発し、革新的なトレーニング方法を用いて効果的な1D+2Dマルチモーダルモデルを構築しました。
   
-weight: 3
+weight: 4
 widget:
   handler: experience
 

@@ -68,7 +68,7 @@ experiences:
   
       - Developed a 1D model based on EEG signals and employed innovative training methods to create an effective 1D+2D multi-modal model.
 
-weight: 3
+weight: 4
 widget:
   handler: experience
 
