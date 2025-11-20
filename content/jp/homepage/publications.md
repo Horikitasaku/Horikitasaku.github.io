@@ -8,7 +8,7 @@ publications:
       url: 
     year: "2024"
     dates: ""
-    abstract: "**YuXuan Wu**, Bonaventure F. P. Dossou, Dianbo Liu"
+    authors: "**YuXuan Wu**, Bonaventure F. P. Dossou, Dianbo Liu"
 
 weight: 1
 widget:
