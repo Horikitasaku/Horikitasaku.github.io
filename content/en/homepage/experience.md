@@ -13,7 +13,7 @@ experiences:
   - title: Research Assistant
     organization:
       name: CNCB Jiang Lab
-      url: https://www.cogai4sci.com/
+      url: 
     dates: "2025.11.15-Present"
     location: China National Center for Bioinformation
     writeup: > 

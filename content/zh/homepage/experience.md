@@ -13,7 +13,7 @@ experiences:
   - title: Research Assistant
     organization:
       name: 中科院基因所蒋岚组
-      url: https://www.cogai4sci.com/
+      url: 
     dates: "2025.11.15-Present"
     location: 中科院基因所
     writeup: > 
