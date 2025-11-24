@@ -6,7 +6,7 @@ avatar: images/icon.png
 bio: 'A student aspiring to leverage AI for advancing natural and fundamental sciences.'
 organization:
   name: China National Center for Bioinformation
-  url: https://www.cncb.ac.cn/
+  url: https://big.cas.cn/
 social:
   - icon: envelope
     iconPack: fas

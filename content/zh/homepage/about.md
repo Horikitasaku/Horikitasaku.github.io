@@ -6,7 +6,7 @@ avatar: images/icon.png
 bio: 一个希望利用人工智能来推进自然科学和基础科学的学生。
 organization:
   name: 中科院基因所
-  url: https://www.cncb.ac.cn/
+  url: https://big.cas.cn/
 social:
   - icon: envelope
     iconPack: fas
