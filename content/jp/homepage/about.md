@@ -5,8 +5,8 @@ role: YuXuan Wu・Horikita Saku
 avatar: images/icon.png
 bio: 人工知能を使って、自然科学や基礎科学を推進したいという学生
 organization:
-  name: National University of Singapore
-  url: https://nus.edu.sg/
+  name: China National Center for Bioinformation
+  url: https://www.cncb.ac.cn/
 social:
   - icon: envelope
     iconPack: fas
