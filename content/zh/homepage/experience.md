@@ -10,11 +10,23 @@ experiences:
     location: 
     writeup: > 
 
+  - title: Research Assistant
+    organization:
+      name: 中科院基因所蒋岚组
+      url: https://www.cogai4sci.com/
+    dates: "2025.11.15-Present"
+    location: 中科院基因所
+    writeup: > 
+
+          - 单细胞组学分析
+
+          - 单细胞扰动预测
+
   - title: 访问学者
     organization:
       name: Cognitve AI for Science Team
       url: https://www.cogai4sci.com/
-    dates: "2024.1.3-Present"
+    dates: "2024.1.3-2025.11.3"
     location: National University of Singapore
     writeup: > 
 

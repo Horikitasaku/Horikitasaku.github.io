@@ -10,6 +10,18 @@ experiences:
     location: 
     writeup: > 
 
+  - title: Research Assistant
+    organization:
+      name: CNCB Jiang Lab
+      url: https://www.cogai4sci.com/
+    dates: "2025.11.15-Present"
+    location: China National Center for Bioinformation
+    writeup: > 
+
+          - 単細胞オミクス解析
+
+          - 単細胞摂動予測
+
   - title: 訪問学者
     organization:
       name: Cognitve AI for Science Team
@@ -17,7 +29,7 @@ experiences:
     dates: "2024.1.3-Present"
     location: National University of Singapore
     writeup: >
-        - 単細胞ミクス解析
+        - 単細胞オミクス解析
   
         - VQ-VAE / Discrete Representation / Machine unlearning
 
