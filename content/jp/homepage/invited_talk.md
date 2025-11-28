@@ -2,7 +2,7 @@
 title: 招待講演
 publications:
   - title: "7th Place Solution: A Hybrid Physics-Based Method with Neural and Tree-Based Model Corrections"
-    publicationUrl: https://neurips.cc/virtual/2025/loc/san-diego/competition/127727
+    publicationUrl: https://neurips.cc/virtual/2025/loc/san-diego/130866
     journal:
       name: NeurIPS
       url: https://neurips.cc/virtual/2025/loc/san-diego/competition/127727
