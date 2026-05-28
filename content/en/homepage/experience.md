@@ -17,10 +17,8 @@ experiences:
     dates: "2025.11.15-Present"
     location: China National Center for Bioinformation
     writeup: > 
-
-          - Single cell omics analysis
-
-          - Single cell perturbation prediction
+        - Single cell omics analysis
+        - Single cell perturbation prediction
 
   - title: Visiting Scholarship
     organization:
