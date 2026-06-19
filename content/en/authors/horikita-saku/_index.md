@@ -3,7 +3,7 @@ title: About Me
 draft: false
 role: YuXuan Wu・Horikita Saku
 avatar: images/icon.png
-bio: 'A student aspiring to leverage AI for advancing natural and fundamental sciences.'
+bio: 'A researcher aspiring to leverage AI for advancing natural and fundamental sciences.'
 organization:
   name: China National Center for Bioinformation
   url: https://big.cas.cn/

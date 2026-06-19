@@ -3,7 +3,7 @@ title: About Me
 draft: false
 role: YuXuan Wu・Horikita Saku
 avatar: images/icon.png
-bio: 一个希望利用人工智能来推进自然科学和基础科学的学生。
+bio: 一个希望利用人工智能来推进自然科学和基础科学的研究者。
 organization:
   name: 中科院基因所
   url: https://big.cas.cn/
