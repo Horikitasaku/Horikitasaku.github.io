@@ -10,6 +10,17 @@ experiences:
     location: 
     writeup: > 
 
+  - title: AI Researcher
+    organization:
+      name: Aillis, Inc.
+      url: https://aillis.jp/
+    dates: "2026.2 - Present"
+    location: Tokyo
+    writeup: >
+        - Developing multilingual medical benchmark datasets to evaluate large language models across linguistic and cultural gaps in clinical contexts.
+
+        - Contributed to evaluation methodology for medical AI systems, focusing on cross-lingual performance and clinical applicability.
+
   - title: Research Assistant
     organization:
       name: CNCB Jiang Lab

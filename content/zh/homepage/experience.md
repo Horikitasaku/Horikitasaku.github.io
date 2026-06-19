@@ -10,6 +10,17 @@ experiences:
     location: 
     writeup: > 
 
+  - title: AI 研究员
+    organization:
+      name: Aillis, Inc.
+      url: https://aillis.jp/
+    dates: "2026.2 - Present"
+    location: Tokyo
+    writeup: >
+        - 开发多语言医学基准数据集，用于评估大语言模型在临床场景中的跨语言与文化差异表现。
+
+        - 参与医学 AI 系统评估方法研究，关注跨语言性能与临床适用性。
+
   - title: Research Assistant
     organization:
       name: 中科院基因所蒋岚组

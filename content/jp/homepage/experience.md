@@ -10,6 +10,17 @@ experiences:
     location: 
     writeup: > 
 
+  - title: AI リサーチャー
+    organization:
+      name: Aillis, Inc.
+      url: https://aillis.jp/
+    dates: "2026.2 - Present"
+    location: Tokyo
+    writeup: >
+        - 臨床場面における言語・文化ギャップを横断して大規模言語モデルを評価する多言語医療ベンチマークデータセットの開発。
+
+        - 医療 AI システムの評価手法に貢献し、言語横断的な性能と臨床適用性に注力。
+
   - title: Research Assistant
     organization:
       name: CNCB Jiang Lab
