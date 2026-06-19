@@ -27,10 +27,14 @@ experiences:
       url: https://big.cas.cn/
     dates: "2025.11.15-Present"
     location: China National Center for Bioinformation
-    writeup: > 
-        - Single cell omics analysis
+    writeup: >
+        - Conducted computational analysis on single-cell and stem cell datasets, focusing on cell state transitions and perturbation responses.
 
-        - Single cell perturbation prediction
+        - Developed models for Virtual Cell Construction, integrating multi-omic data to simulate cellular behavior under various perturbations.
+
+        - Contributed to individual-level virtual modeling, aiming to capture inter-donor variability and predict donor-specific cellular responses.
+
+        - Performed quality control and computational data processing for mesenchymal stem cell (MSC) datasets, supporting stem cell product characterization.
 
   - title: Visiting Scholarship
     organization:

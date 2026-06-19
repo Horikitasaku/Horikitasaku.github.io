@@ -26,12 +26,15 @@ experiences:
       name: 中科院基因所蒋岚组
       url: https://big.cas.cn/
     dates: "2025.11.15-Present"
-    location: 中科院基因所
-    writeup: > 
+    location: 国家生物信息中心
+    writeup: >
+        - 开展单细胞与干细胞数据的计算分析，聚焦细胞状态转变与扰动响应。
 
-          - 单细胞组学分析
+        - 开发虚拟细胞构建（Virtual Cell Construction）模型，整合多组学数据以模拟不同扰动下的细胞行为。
 
-          - 单细胞扰动预测
+        - 参与个体水平虚拟建模，捕捉供体间差异并预测供体特异性细胞响应。
+
+        - 对间充质干细胞（MSC）数据集进行质量控制与计算处理，支持干细胞产品表征。
 
   - title: 访问学者
     organization:

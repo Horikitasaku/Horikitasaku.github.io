@@ -27,11 +27,14 @@ experiences:
       url: https://big.cas.cn/
     dates: "2025.11.15-Present"
     location: China National Center for Bioinformation
-    writeup: > 
+    writeup: >
+        - 単細胞および幹細胞データの計算解析を実施し、細胞状態遷移と摂動応答に焦点。
 
-          - 単細胞オミクス解析
+        - Virtual Cell Construction モデルを開発し、マルチオミクスデータを統合して様々な摂動下の細胞挙動をシミュレート。
 
-          - 単細胞摂動予測
+        - 個体レベルの仮想モデリングに貢献し、ドナー間変異の捕捉とドナー特異的細胞応答の予測を目指す。
+
+        - 間葉系幹細胞（MSC）データセットの品質管理と計算処理を担当し、幹細胞製品の特性評価を支援。
 
   - title: 訪問学者
     organization:
