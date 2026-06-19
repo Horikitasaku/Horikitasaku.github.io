@@ -18,6 +18,7 @@ experiences:
     location: China National Center for Bioinformation
     writeup: > 
         - Single cell omics analysis
+
         - Single cell perturbation prediction
 
   - title: Visiting Scholarship

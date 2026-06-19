@@ -1,6 +1,14 @@
 ---
 title: Publications
 publications:
+  - title: "Resolving the bias-precision paradox with stochastic causal representation learning for personalized medicine"
+    publicationUrl: https://arxiv.org/abs/2605.05706
+    journal:
+      name: Nature Biomedical Engineering (Under Review)
+      url:
+    year: "2026"
+    dates: ""
+    authors: "Peisong Zhang, Manqiang Peng, **YuXuan Wu**, et al."
   - title: "CodeUnlearn: Amortized Zero-Shot Machine Unlearning in Language Models Using Discrete Concept"
     publicationUrl: https://arxiv.org/abs/2410.10866
     journal:
