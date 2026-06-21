@@ -41,7 +41,7 @@ weight: 4
 
 有限差分法（Finite Difference Analysis）は、数値解析や数学的モデリングにおいて一般的に使用される手法の一つです。この手法は、関数や方程式の微分を近似的に計算するために使われます。
 
-![等間隔の格子点 x0..x6 を取った y=f(x)](images/fda-grid.png)
+![等間隔の格子点 x0..x6 を取った y=f(x)](/images/fda-grid.png)
 
 有限差分法は、前進差分(Forward Difference)、中心差分(Central Difference)、後退差分(Backward Difference)に分けられます。
 
@@ -179,7 +179,7 @@ $$
 
 $1 - \cos$ を損失として見ると、true を固定したときの損失は次のような形になります。損失は pred が true と同じ向きを指すとき最小になります。
 
-![1-cos 損失の曲面と等高線](images/cosine-loss-surface.png)
+![1-cos 損失の曲面と等高線](/images/cosine-loss-surface.png)
 
 #### １階微分 / 勾配
 

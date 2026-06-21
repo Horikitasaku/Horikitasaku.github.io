@@ -41,7 +41,7 @@ I won't get into how well the loss actually performs in that competition. What I
 
 Finite Difference Analysis is one of the workhorse techniques in numerical analysis and mathematical modeling. You use it to approximate the derivative of a function or an equation.
 
-![y=f(x) sampled on an equally spaced grid x0..x6](images/fda-grid.png)
+![y=f(x) sampled on an equally spaced grid x0..x6](/images/fda-grid.png)
 
 It comes in three flavors: forward difference, central difference, and backward difference.
 
@@ -179,7 +179,7 @@ $$
 
 Treating $1 - \cos$ as the loss and holding true fixed, the landscape looks like this — the loss bottoms out wherever pred points in the same direction as true.
 
-![Surface and contours of the 1-cos loss](images/cosine-loss-surface.png)
+![Surface and contours of the 1-cos loss](/images/cosine-loss-surface.png)
 
 #### First derivative / gradient
 
