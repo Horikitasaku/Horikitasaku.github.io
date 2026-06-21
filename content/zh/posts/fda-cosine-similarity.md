@@ -14,7 +14,7 @@ series:
   - Finite Difference
 date: '2023-09-11'
 lastmod: '2023-09-11'
-featuredImage:
+featuredImage: images/cosine-loss-surface.png
 draft: false
 weight: 4
 ---
@@ -40,6 +40,8 @@ weight: 4
 # 有限差分法 Finite Difference Analysis
 
 有限差分法（Finite Difference Analysis）是数值分析和数学建模里很常用的一类方法，用来近似计算函数或方程的导数。
+
+![在等间隔网格点 x0..x6 上采样的 y=f(x)](images/fda-grid.png)
 
 它分为前向差分（Forward Difference）、中心差分（Central Difference）和后向差分（Backward Difference）三种。
 
@@ -174,6 +176,10 @@ $$
 $$
 \text{Cosine Similarity}(\mathbf{pred}, \mathbf{true}) = \frac{\mathbf{pred} \cdot \mathbf{true}}{\|\mathbf{pred}\| \|\mathbf{true}\|}
 $$
+
+把 $1 - \cos$ 当作损失、固定 true 后，损失的形状如下——只要 pred 和 true 方向一致，损失就取到最小。
+
+![1-cos 损失的曲面与等高线](images/cosine-loss-surface.png)
 
 #### 一阶导数 / 梯度
 

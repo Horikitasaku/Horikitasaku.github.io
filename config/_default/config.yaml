@@ -7,7 +7,7 @@ title: YuXuan Wu・Horikita Saku
 theme: github.com/Horikitasaku/hugo-eureka
 # If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
 
-paginate: 3
+paginate: 20
 copyright: >
   &copy; 2023 <a href="">Horikita Saku</a>
 enableEmoji: true
