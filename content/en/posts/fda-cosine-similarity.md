@@ -299,13 +299,3 @@ That's because LightGBM isn't a Newton-style optimizer — it uses Gradient Boos
 lgbm builds the model primarily from gradient information, without ever computing or using the third component of the Hessian. So you only need the first derivative (the gradient) and the second derivative restricted to the diagonal of the Hessian (e.g. $[\frac{\partial^2 f}{\partial P_0^2}, \frac{\partial^2 f}{\partial P_1^2}]$).
 
 These are what drive the split rules and the leaf-value updates that construct the tree model, with no need to consider the off-diagonal terms of the Hessian. The result is lower compute cost and more efficient training.
-
-------
-
-# To wrap up
-
-Thanks for reading — this is my very first post.
-
-It's a simple topic, but I wrote it because I think it captures nicely how important and how appealing the math behind machine learning can be. It also gave me a chance to practice my Japanese, so if anything reads wrong, I'd love for you to point it out.
-
-Thanks to yama.
