@@ -43,9 +43,11 @@ experiences:
     dates: "2024.1.3-Present"
     location: National University of Singapore
     writeup: >
-        - 単細胞オミクス解析
-  
-        - VQ-VAE / Discrete Representation / Machine unlearning
+        - 離散概念表現を用いた機械忘却に関する研究を発表し、医療 AI におけるモデル解釈性を向上。
+
+        - MIMIC-III EHR データ上で因果推論モデルを開発し、臨床時系列から患者の生理状態の時間的変化を予測。
+
+        - AI Scientist スタイルのエージェントシステムにおける自己ループ機構を探索し、仮説生成とアルゴリズム最適化の自動化を実現。
 
   - title: NeurIPS - Ariel Data Challenge 2025 - 金メダル 第7位
     titleUrl: https://www.kaggle.com/competitions/ariel-data-challenge-2025/writeups/7st-place-solution

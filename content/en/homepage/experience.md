@@ -43,9 +43,11 @@ experiences:
     dates: "2024.1-Present"
     location: National University of Singapore
     writeup: >
-        - Single cell omics analysis
+        - Published research on machine unlearning using discrete concept representations, enhancing model interpretability in medical AI
 
-        - VQ-VAE / Discrete Representation / Machine unlearning
+        - Developed causal inference models on MIMIC-III EHR data to predict temporal changes in patient physiological states from clinical time series. 
+        
+        - Explored self-loop mechanisms in AI Scientist-style agentic systems to automate hypothesis generation and algorithm optimization. 
 
   - title: NeurIPS - Ariel Data Challenge 2025 - Gold Medal 7th
     titleUrl: https://www.kaggle.com/competitions/ariel-data-challenge-2025/writeups/7st-place-solution

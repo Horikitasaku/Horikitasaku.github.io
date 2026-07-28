@@ -42,11 +42,12 @@ experiences:
       url: https://www.cogai4sci.com/
     dates: "2024.1.3-2025.11.3"
     location: National University of Singapore
-    writeup: > 
+    writeup: >
+        - 基于离散概念表示开展机器遗忘发表论文，提升医疗 AI 中的模型可解释性。
 
-          - 单细胞组学分析
+        - 在 MIMIC-III EHR 数据上开发因果推断模型，从临床时间序列中预测患者生理状态的时态变化。
 
-          - VQ-VAE / Discrete Representation / Machine unlearning
+        - 探索 AI Scientist 智能体系统中的自我循环机制，实现假设生成与算法优化的自动化。
 
   - title: NeurIPS - Ariel Data Challenge 2025 - Gold Medal 7th
     titleUrl: https://www.kaggle.com/competitions/ariel-data-challenge-2025/writeups/7st-place-solution
