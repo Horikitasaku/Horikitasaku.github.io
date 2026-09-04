@@ -7,6 +7,11 @@ title: YuXuan Wu・Horikita Saku
 theme: github.com/Horikitasaku/hugo-eureka
 # If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
 
+module:
+  # Theme's indirect deps use the vanity path wangchucheng.com/hugo-marble/*,
+  # whose host now returns 403; Hugo's default proxy is "direct", so resolve via the module proxy.
+  proxy: https://proxy.golang.org,direct
+
 paginate: 20
 copyright: >
   &copy; 2023 <a href="">Horikita Saku</a>
