@@ -1,20 +1,30 @@
 en:
   languageCode: en
   languageName: English
-  # Uncomment for multilingual sites, and move the default content into corresponding sub-folder.
   contentDir: content/en
-  title: YuXuan Wu/HorikitaSaku
+  title: "Yuxuan Wu (Horikita Saku) | AI for Biology and Medicine"
+  params:
+    description: >-
+      Yuxuan Wu (Horikita Saku), researcher at China National Center for Bioinformation
+      and Aillis. Single-cell multi-omics, donor-level representation learning,
+      medical AI benchmarking. Kaggle Master.
 
-# Uncomment for multilingual sites, and customize the following config.
 zh:
-  languageCode: zh
+  languageCode: zh-CN
   languageName: 简体中文
   contentDir: content/zh
-  title: YuXuan Wu/HorikitaSaku
-
+  title: "吴宇轩 Yuxuan Wu | 人工智能与生物信息学"
+  params:
+    description: >-
+      吴宇轩（Yuxuan Wu，笔名堀北朔），国家生物信息中心研究助理，Aillis AI 研究员。
+      研究方向为单细胞多组学、供体水平表征学习与医学 AI 评测。Kaggle Master。
 
 jp:
-  languageCode: jp
+  languageCode: ja
   languageName: 日本語
   contentDir: content/jp
-  title: YuXuan Wu/HorikitaSaku
+  title: "Yuxuan Wu（吴宇轩・堀北朔）| AI × 生命科学"
+  params:
+    description: >-
+      Yuxuan Wu（吴宇轩・堀北朔）。中国国家生物情報センター研究助手、Aillis AI リサーチャー。
+      単一細胞マルチオミクス、ドナーレベル表現学習、医療 AI 評価。Kaggle Master。

@@ -1,0 +1,55 @@
+<script>
+  (function () {
+    try {
+      var supported = ["en", "zh", "jp"]; // match languages in theme/site config
+      var path = window.location.pathname || "/";
+
+      // Skip if already under a language prefix (/en/, /zh/, /jp) or if we already tried once this session
+      var alreadyPrefixed = /^\/(en|zh|jp)(\/|$)/.test(path);
+      if (alreadyPrefixed || sessionStorage.getItem("autoLangRedirectDone") === "1") {
+        return;
+      }
+
+      // Map browser language codes to our site languages
+      var mapToSiteLang = function (code) {
+        if (!code) return null;
+        var lc = String(code).toLowerCase();
+        if (lc === "ja" || lc.indexOf("ja-") === 0) return "jp"; // site uses jp, browsers use ja
+        if (lc === "zh" || lc.indexOf("zh-") === 0) return "zh"; // collapse zh-XX -> zh
+        if (lc === "en" || lc.indexOf("en-") === 0) return "en";
+        return null;
+      };
+
+      var preferred = null;
+      if (Array.isArray(navigator.languages)) {
+        for (var i = 0; i < navigator.languages.length; i++) {
+          var cand = mapToSiteLang(navigator.languages[i]);
+          if (cand && supported.indexOf(cand) !== -1) {
+            preferred = cand;
+            break;
+          }
+        }
+      }
+      if (!preferred) {
+        preferred = mapToSiteLang(navigator.language) || "en"; // fallback to default
+      }
+
+      // Only redirect if we found a supported language and current path is not prefixed
+      if (preferred && supported.indexOf(preferred) !== -1) {
+        // Preserve path, query, and hash; just prefix with the language code
+        var newPath = path;
+        if (newPath.charAt(0) !== "/") newPath = "/" + newPath;
+        var target = "/" + preferred + (newPath === "/" ? "/" : newPath) + window.location.search + window.location.hash;
+        // Avoid accidental double slashes (except the protocol part which isn't in path)
+        target = target.replace(/\/+/, "/").replace(/\/\/+/, "/");
+        sessionStorage.setItem("autoLangRedirectDone", "1");
+        window.location.replace(target);
+      }
+    } catch (e) {
+      // Fail silently to avoid impacting page load
+    }
+  })();
+</script>
+{{- range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}">
+{{- end }}
