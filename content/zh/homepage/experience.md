@@ -72,13 +72,13 @@ experiences:
       url: https://icecube.wisc.edu/
     dates: "2023"
     location: 
-    writeup: >
+    writeup: |
+      <p style="border-left: 3px solid var(--color-eureka); padding-left: 0.85rem; margin-bottom: 0.75rem;"><strong>Update · 2026-10-06.</strong> 瑞典皇家科学院宣布，2026 年诺贝尔物理学奖授予 <a href="https://www.nobelprize.org/prizes/physics/2026/press-release/">Francis Halzen</a>，表彰其对 IceCube 中微子天文台的决定性贡献，以及发现具有天体物理起源的高能中微子。</p>
+
       重建中微子从宇宙到达南极的方向
 
       - 在中微子与天体物理学竞赛中，获得21th，在全球所有参赛队伍中排名前3%。
-      
       - 使用基于EdgeConv算子的3D点云卷积模型，开发了各种RNN模型，并创新地实现了基于IceCube物理原理的多阶段训练方法。
-
       - 这一成就也标志着我在Kaggle竞赛中获得的第一枚奖牌。
 
   - title: HMS - Harmful Brain Activity Classification - Silver Medal(top2%)

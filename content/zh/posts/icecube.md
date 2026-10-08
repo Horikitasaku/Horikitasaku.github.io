@@ -14,11 +14,13 @@ categories:
 series:
   - Neutrinos
 date: '2023-10-26'
-lastmod: '2023-10-26'
+lastmod: '2026-10-08'
 featuredImage: images/41185938.gif
 draft: false
 weight: 2
 ---
+<p style="border-left: 3px solid var(--color-eureka); padding-left: 0.85rem; margin-bottom: 1.25rem;"><strong>Update · 2026-10-06.</strong> 瑞典皇家科学院宣布，2026 年诺贝尔物理学奖授予 <a href="https://www.nobelprize.org/prizes/physics/2026/press-release/">Francis Halzen</a>，表彰其对 IceCube 中微子天文台的决定性贡献，以及发现具有天体物理起源的高能中微子。下文记录的是我在这座望远镜的方向重建比赛中的做法。</p>
+
 ## Foreword 
 
 I am writing this article in the hope of sharing insights from my personal journey in the competition, accompanied by a brief introduction to the techniques employed.

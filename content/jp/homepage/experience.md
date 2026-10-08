@@ -72,13 +72,13 @@ experiences:
       url: https://icecube.wisc.edu/
     dates: "2023"
     location: 
-    writeup: >
+    writeup: |
+      <p style="border-left: 3px solid var(--color-eureka); padding-left: 0.85rem; margin-bottom: 0.75rem;"><strong>Update · 2026-10-06.</strong> スウェーデン王立科学アカデミーは、IceCube ニュートリノ観測所への決定的な貢献と、天体物理学的起源をもつ高エネルギーニュートリノの発見に対し、2026 年ノーベル物理学賞を <a href="https://www.nobelprize.org/prizes/physics/2026/press-release/">Francis Halzen</a> に授与した。</p>
+
       宇宙から南極までのニュートリノの方向を再現します
 
       - ニュートリノと天体物理学のコンペティションで21位を獲得し、参加チーム全体のトップ3％にランクインしました。
-
       - EdgeConvオペレータに基づく3Dポイントクラウド畳み込みモデルを活用し、さまざまなRNNモデルを開発し、IceCubeの物理的原理に基づいた多段階トレーニング方法を採用しました。
-  
       - 初めてのメダルです。
 
   - title: HMS - Harmful Brain Activity Classification - Silver Medal(top2%)

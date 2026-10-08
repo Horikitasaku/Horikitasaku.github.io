@@ -73,13 +73,13 @@ experiences:
       url: https://icecube.wisc.edu/
     dates: "2023"
     location: 
-    writeup: >
+    writeup: |
+      <p style="border-left: 3px solid var(--color-eureka); padding-left: 0.85rem; margin-bottom: 0.75rem;"><strong>Update · 2026-10-06.</strong> The Royal Swedish Academy of Sciences awarded the 2026 Nobel Prize in Physics to <a href="https://www.nobelprize.org/prizes/physics/2026/press-release/">Francis Halzen</a> for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin.</p>
+
       Reconstruct the direction of neutrinos from the Universe to the South Pole
 
       - Achieved the 21th in the Neutrinos and Astrophysics competition, ranking in the top 3% globally among all participating teams.
-  
       - Utilized a 3D point cloud convolution model based on the EdgeConv operator, developed various RNN models, and employed a multi-stage training method grounded in IceCube's physical principles.
-  
       - This achievement also marks my first medal in Kaggle competitions.
 
   - title: HMS - Harmful Brain Activity Classification - Silver Medal(top2%)

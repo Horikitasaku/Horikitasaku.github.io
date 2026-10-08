@@ -14,11 +14,13 @@ categories:
 series:
   - Neutrinos
 date: '2023-10-26'
-lastmod: '2023-10-26'
+lastmod: '2026-10-08'
 featuredImage: images/41185938.gif
 draft: false
 weight: 2
 ---
+<p style="border-left: 3px solid var(--color-eureka); padding-left: 0.85rem; margin-bottom: 1.25rem;"><strong>Update · 2026-10-06.</strong> The Royal Swedish Academy of Sciences awarded the 2026 Nobel Prize in Physics to <a href="https://www.nobelprize.org/prizes/physics/2026/press-release/">Francis Halzen</a> for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin. This note is my write-up of the direction-reconstruction competition on that observatory.</p>
+
 ## Foreword 
 
 I am writing this article in the hope of sharing insights from my personal journey in the competition, accompanied by a brief introduction to the techniques employed.

@@ -14,11 +14,13 @@ categories:
 series:
   - Neutrinos
 date: '2023-10-26'
-lastmod: '2023-10-26'
+lastmod: '2026-10-08'
 featuredImage: images/41185938.gif
 draft: false
 weight: 2
 ---
+<p style="border-left: 3px solid var(--color-eureka); padding-left: 0.85rem; margin-bottom: 1.25rem;"><strong>Update · 2026-10-06.</strong> スウェーデン王立科学アカデミーは、IceCube ニュートリノ観測所への決定的な貢献と、天体物理学的起源をもつ高エネルギーニュートリノの発見に対し、2026 年ノーベル物理学賞を <a href="https://www.nobelprize.org/prizes/physics/2026/press-release/">Francis Halzen</a> に授与した。本稿は、その観測所における方向再構成コンペの記録である。</p>
+
 ## Foreword 
 
 I am writing this article in the hope of sharing insights from my personal journey in the competition, accompanied by a brief introduction to the techniques employed.
